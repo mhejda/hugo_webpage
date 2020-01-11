@@ -3,6 +3,9 @@ languageCode = "en"
 defaultContentLanguage = "en"
 title = "Matěj Hejda"
 theme = "KeepIt"
+preserveTaxonomyNames = true
+pygmentsUseClasses = true
+pygmentsCodefences = true
 
 paginate = 12
 enableEmoji = true
@@ -57,8 +60,9 @@ disqusShortname = "yourdiscussshortname"
 [params]
     since = 2020
     author = "Matěj Hejda"               # Author's name
-    subtitle = "foo baz"
-    subtitle_additional = "foo bazfoo baz"
+    subtitle_main = "Matěj Hejda"
+    subtitle_minor1 = "doctoral candidate at University of Strathclyde, Glasgow | photonics for neuromorphics systems"
+    subtitle_minor2 = "science | tech & AI | travelling | photography"
     description = "Made in Czechia, living in Scotland"
     socialShare = true
     cdn_url = ""           # Base CDN URL

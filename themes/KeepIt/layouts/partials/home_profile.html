@@ -11,10 +11,23 @@
 			<a href="/posts/">	<img src="https://www.gravatar.com/avatar/{{ md5 .Site.Params.gravatar.email }}?s=240&d=mp" alt="gravatar"> </a>
 		</div>
 		{{ end }}
-    {{ with .Site.Params.subtitle}}
-    <h2 class="description">
+    
+    {{ with .Site.Params.subtitle_main}}
+    <h1 class="description">
        {{ . }}
-    </h2>
+    </h1>
+    {{ end }}           
+
+    {{ with .Site.Params.subtitle_minor1}}
+    <p class="description">
+       {{ . }}
+    </p>
+    {{ end }}
+    
+    {{ with .Site.Params.subtitle_minor2}}
+    <p class="description">
+       {{ . }}
+    </p>
     {{ end }}
     <div class="social-links">
       {{ partial "social.html" . }}
