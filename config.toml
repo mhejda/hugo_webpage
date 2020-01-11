@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://test.com"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "KeepIt"
+title = "mhejda.com"
 theme = "KeepIt"
 
 paginate = 12
@@ -15,10 +15,25 @@ disqusShortname = "yourdiscussshortname"
   filename = "sitemap.xml"
   priority = 0.5
 
-[blackfriday]
-  hrefTargetBlank = true
-  nofollowLinks = true
-  noreferrerLinks = true
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = false
+      xHTML = false
 
 [Permalinks]
  posts = "/:year/:filename/"
