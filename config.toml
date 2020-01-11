@@ -57,12 +57,15 @@ disqusShortname = "yourdiscussshortname"
 [params]
     since = 2020
     author = "Matěj Hejda"               # Author's name
-    subtitle = "Doctoral candidate in physics @ University of Strathclyde, photonics for neuromorphic systems"
-    subtitle_additional = "Science / tech & AI / electronic music / photography"
+    subtitle = "foo baz"
+    subtitle_additional = "foo bazfoo baz"
     description = "Made in Czechia, living in Scotland"
     socialShare = true
     cdn_url = ""           # Base CDN URL
-    home_mode = "other" # post or other
+    #home_mode = "other" # post or other
+    #avatar = "/images/me/avatar.jpg" #comment it to use gravatar
+    keywords = "keyword1, keyword2" # site keywords
+
 
     google_verification = ""
     bing_verification = ""
@@ -70,11 +73,7 @@ disqusShortname = "yourdiscussshortname"
     pinterest_verification = ""
     baidu_verification = ""
 
-    #avatar = "/images/me/avatar.jpg" #comment it to use gravatar
-    socialShare = true
 
-    description = "Site test description" # site description
-    keywords = "keyword1, keyword2" # site keywords
 
     license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
@@ -82,12 +81,12 @@ disqusShortname = "yourdiscussshortname"
     email = "hejdis@gmail.com"   #uncomment and insert your email address to use gravatar
 
 [params.social]
-    GitHub = "xxxx"
-    Linkedin = "xxxx"
-    Twitter = "xxxx"
+    #GitHub = "xxxx"
+    #Linkedin = "xxxx"
+    #Twitter = "xxxx"
     #Instagram = "xxxx"
     #Email   = "xxxx"
-    Facebook = "xxxx"
+    #Facebook = "xxxx"
     #Telegram = "xxxx"
     #Medium = "xxxx"
     #Gitlab = "xxxx"
@@ -141,10 +140,10 @@ disqusShortname = "yourdiscussshortname"
     #Thingiverse = "xxxx"
 
 [params.share]
-Twitter = true
-Facebook = true
+#Twitter = true
+#Facebook = true
 #Reddit = true
-Linkedin = true
+#Linkedin = true
 #Pinterest = true
 #HackerNews = true
 #Mix = true
