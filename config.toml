@@ -55,11 +55,11 @@ disqusShortname = "yourdiscussshortname"
     weight = 4
 
 [params]
-    since = 2012
-    author = "Fastbyte01"               # Author's name
-    subtitle = "A Hugo theme"       # Subtitle
+    since = 2020
+    author = "Matěj Hejda"               # Author's name
+    subtitle = "Personal webpage slash blog slash data stash"       # Subtitle
     cdn_url = ""           # Base CDN URL
-    home_mode = "" # post or other
+    home_mode = "other" # post or other
 
     google_verification = ""
     bing_verification = ""
@@ -67,7 +67,7 @@ disqusShortname = "yourdiscussshortname"
     pinterest_verification = ""
     baidu_verification = ""
 
-    #avatar = "/images/me/avatar.jpg" #comment it to use gravatar
+    avatar = "/images/me/avatar.jpg" #comment it to use gravatar
     socialShare = true
 
     description = "Site test description" # site description
