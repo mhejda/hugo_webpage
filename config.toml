@@ -59,7 +59,7 @@ disqusShortname = "yourdiscussshortname"
     author = "Matěj Hejda"               # Author's name
     subtitle = "Personal webpage slash blog slash data stash"       # Subtitle
     cdn_url = ""           # Base CDN URL
-    home_mode = "post" # post or other
+    home_mode = "other" # post or other
 
     google_verification = ""
     bing_verification = ""
