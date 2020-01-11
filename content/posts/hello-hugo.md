@@ -1,995 +1,1151 @@
-
-
-
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-  <link rel="dns-prefetch" href="https://github.githubassets.com">
-  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
-  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
-
-
-
-  <link crossorigin="anonymous" media="all" integrity="sha512-hddDYPWR0gBbqLRmIZP242WMEiYsVkYI2UCYCVUHB4h5DhD2cbtFJYG+HPh21dZGb+sbgDHxQBNJCBq7YbmlBQ==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-02a3eaa24db2bd1ed9b64450595fc2cf.css" />
-  <link crossorigin="anonymous" media="all" integrity="sha512-sJwab9nd8bgVMj8MpmRLq3N2korlw5O6ARpNZ8t5ZtoSkFZvDU1e8OKDDnoB4d/Nnu7tiY1ZGoE1gx/CdxKqYg==" rel="stylesheet" href="https://github.githubassets.com/assets/site-7a15476fda05819d4cf0d3adc8724236.css" />
-    <link crossorigin="anonymous" media="all" integrity="sha512-uhAd27cNiLn0VE2GVEVUN8D5zW0o7s0QTnCGMnJZkL2HqN9/LwHDi4ndTPJH0upUQHYl/8QF6cwbOYp/KIzlJQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-be4e45349cf088df7a6636f437c0a167.css" />
-    
-    
-    
-    
-
-
-  <meta name="viewport" content="width=device-width">
-  
-  <title>hugo/hello-hugo.md at master · gohugoio/hugo · GitHub</title>
-    <meta name="description" content="The world’s fastest framework for building websites. - gohugoio/hugo">
-    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
-  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
-  <meta property="fb:app_id" content="1401488693436528">
-
-    <meta name="twitter:image:src" content="https://repository-images.githubusercontent.com/11180687/9d3d8200-abf2-11e9-803c-4cdfde0d22e5" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="gohugoio/hugo" /><meta name="twitter:description" content="The world’s fastest framework for building websites. - gohugoio/hugo" />
-    <meta property="og:image" content="https://repository-images.githubusercontent.com/11180687/9d3d8200-abf2-11e9-803c-4cdfde0d22e5" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="gohugoio/hugo" /><meta property="og:url" content="https://github.com/gohugoio/hugo" /><meta property="og:description" content="The world’s fastest framework for building websites. - gohugoio/hugo" />
-
-  <link rel="assets" href="https://github.githubassets.com/">
-  
-  
-
-    <meta name="request-id" content="0B49:2674D:3744C36:5332222:5E19E278" data-pjax-transient>
-
-
-
-  
-
-  <meta name="selected-link" value="repo_source" data-pjax-transient>
-
-      <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
-    <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
-    <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
-
-    <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="0B49:2674D:3744C36:5332222:5E19E278" /><meta name="octolytics-dimension-region_edge" content="ams" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="7876150272098337779" />
-
-<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
-
-
-
-    <meta name="google-analytics" content="UA-3769691-2">
-
-
-<meta class="js-ga-set" name="dimension1" content="Logged Out">
-
-
-
-  
-
-      <meta name="hostname" content="github.com">
-    <meta name="user-login" content="">
-
-      <meta name="expected-hostname" content="github.com">
-
-      <meta name="js-proxy-site-detection-payload" content="MTJjMjJjZTMxNGU1ZmUzM2YxMDBiOGFiNGUwNjU5NTYyMjRkYWE3NmU3YjI0ZjVjYjUzYjJjNjA0MDE4ZDFlZnx7InJlbW90ZV9hZGRyZXNzIjoiOTAuMjUzLjIyMy4yNTQiLCJyZXF1ZXN0X2lkIjoiMEI0OToyNjc0RDozNzQ0QzM2OjUzMzIyMjI6NUUxOUUyNzgiLCJ0aW1lc3RhbXAiOjE1Nzg3NTQ2ODcsImhvc3QiOiJnaXRodWIuY29tIn0=">
-
-    <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS">
-
-    <meta name="html-safe-nonce" content="61821af7b8b9be9f075361d7a4e59a1d6e6bdd63">
-
-  <meta http-equiv="x-pjax-version" content="29b5f5033ff3b50651b46612f0a560d2">
-  
-
-      <link href="https://github.com/gohugoio/hugo/commits/master.atom" rel="alternate" title="Recent Commits to hugo:master" type="application/atom+xml">
-
-  <meta name="go-import" content="github.com/gohugoio/hugo git https://github.com/gohugoio/hugo.git">
-
-  <meta name="octolytics-dimension-user_id" content="29385237" /><meta name="octolytics-dimension-user_login" content="gohugoio" /><meta name="octolytics-dimension-repository_id" content="11180687" /><meta name="octolytics-dimension-repository_nwo" content="gohugoio/hugo" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="11180687" /><meta name="octolytics-dimension-repository_network_root_nwo" content="gohugoio/hugo" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
-
-
-    <link rel="canonical" href="https://github.com/gohugoio/hugo/blob/master/examples/blog/content/post/hello-hugo.md" data-pjax-transient>
-
-
-  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
-
-  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
-
-  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
-  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://github.githubassets.com/favicon.ico">
-
-<meta name="theme-color" content="#1e2327">
-
-
-  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
-
-  </head>
-
-  <body class="logged-out env-production page-responsive page-blob">
-    
-
-  <div class="position-relative js-header-wrapper ">
-    <a href="#start-of-content" tabindex="1" class="px-2 py-4 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
-    <span class="Progress progress-pjax-loader position-fixed width-full js-pjax-loader-bar">
-      <span class="progress-pjax-loader-bar top-0 left-0" style="width: 0%;"></span>
-    </span>
-
-    
-    
-    
-
-
-        <header class="Header-old header-logged-out js-details-container Details position-relative f4 py-2" role="banner">
-  <div class="container-lg d-lg-flex flex-items-center p-responsive">
-    <div class="d-flex flex-justify-between flex-items-center">
-        <a class="mr-4" href="https://github.com/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark">
-          <svg height="32" class="octicon octicon-mark-github text-white" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
-        </a>
-
-          <div class="d-lg-none css-truncate css-truncate-target width-fit p-2">
-            
-              <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
-    <a class="Header-link" href="/gohugoio">gohugoio</a>
-    /
-    <a class="Header-link" href="/gohugoio/hugo">hugo</a>
-
-
-          </div>
-
-        <div class="d-flex flex-items-center">
-            <a href="/join?source=header-repo"
-              class="d-inline-block d-lg-none f5 text-white no-underline border border-gray-dark rounded-2 px-2 py-1 mr-3 mr-sm-5"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:&quot;1833809137.1577354227&quot;,&quot;originating_request_id&quot;:&quot;0B49:2674D:3744C36:5332222:5E19E278&quot;,&quot;originating_url&quot;:&quot;https://github.com/gohugoio/hugo/blob/master/examples/blog/content/post/hello-hugo.md&quot;,&quot;referrer&quot;:&quot;https://github.com/gohugoio/hugo/tree/master/examples/blog/content/post&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="424c2841610fb09fe8816bbc3f93ae19edde19738ebf61e5eb1a504a02290000"
-              data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
-              Sign&nbsp;up
-            </a>
-
-          <button class="btn-link d-lg-none mt-1 js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
-            <svg height="24" class="octicon octicon-three-bars text-white" viewBox="0 0 12 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M11.41 9H.59C0 9 0 8.59 0 8c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zm0-4H.59C0 5 0 4.59 0 4c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zM.59 11H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1H.59C0 13 0 12.59 0 12c0-.59 0-1 .59-1z"/></svg>
-          </button>
-        </div>
-    </div>
-
-    <div class="HeaderMenu HeaderMenu--logged-out position-fixed top-0 right-0 bottom-0 height-fit position-lg-relative d-lg-flex flex-justify-between flex-items-center flex-auto">
-      <div class="d-flex d-lg-none flex-justify-end border-bottom bg-gray-light p-3">
-        <button class="btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
-          <svg height="24" class="octicon octicon-x text-gray" viewBox="0 0 12 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
-        </button>
-      </div>
-
-        <nav class="mt-0 px-3 px-lg-0 mb-5 mb-lg-0" aria-label="Global">
-          <ul class="d-lg-flex list-style-none">
-              <li class="d-block d-lg-flex flex-lg-nowrap flex-lg-items-center border-bottom border-lg-bottom-0 mr-0 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
-                <details class="HeaderMenu-details details-overlay details-reset width-full">
-                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
-                    Why GitHub?
-                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative">
-                      <path d="M1,1l6.2,6L13,1"></path>
-                    </svg>
-                  </summary>
-                  <div class="dropdown-menu flex-auto rounded-1 bg-white px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
-                    <a href="/features" class="py-2 lh-condensed-ultra d-block link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Features">Features <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a>
-                    <ul class="list-style-none f5 pb-3">
-                      <li class="edge-item-fix"><a href="/features/code-review/" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Code review">Code review</a></li>
-                      <li class="edge-item-fix"><a href="/features/project-management/" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Project management">Project management</a></li>
-                      <li class="edge-item-fix"><a href="/features/integrations" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Integrations">Integrations</a></li>
-                      <li class="edge-item-fix"><a href="/features/actions" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Actions">Actions</a></li>
-                          <li class="edge-item-fix"><a href="/features/packages" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to GitHub Packages">Packages</a></li>
-                      <li class="edge-item-fix"><a href="/features/security" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Security">Security</a></li>
-                      <li class="edge-item-fix"><a href="/features#team-management" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Team management">Team management</a></li>
-                      <li class="edge-item-fix"><a href="/features#hosting" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Code hosting">Hosting</a></li>
-                    </ul>
-
-                    <ul class="list-style-none mb-0 border-lg-top pt-lg-3">
-                      <li class="edge-item-fix"><a href="/customer-stories" class="py-2 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Customer stories">Customer stories <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
-                      <li class="edge-item-fix"><a href="/security" class="py-2 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Security">Security <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
-                    </ul>
-                  </div>
-                </details>
-              </li>
-              <li class="border-bottom border-lg-bottom-0 mr-0 mr-lg-3">
-                <a href="/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-ga-click="(Logged out) Header, go to Enterprise">Enterprise</a>
-              </li>
-
-              <li class="d-block d-lg-flex flex-lg-nowrap flex-lg-items-center border-bottom border-lg-bottom-0 mr-0 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
-                <details class="HeaderMenu-details details-overlay details-reset width-full">
-                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
-                    Explore
-                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative">
-                      <path d="M1,1l6.2,6L13,1"></path>
-                    </svg>
-                  </summary>
-
-                  <div class="dropdown-menu flex-auto rounded-1 bg-white px-0 pt-2 pb-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
-                    <ul class="list-style-none mb-3">
-                      <li class="edge-item-fix"><a href="/explore" class="py-2 lh-condensed-ultra d-block link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Explore">Explore GitHub <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
-                    </ul>
-
-                    <h4 class="text-gray-light text-normal text-mono f5 mb-2 border-lg-top pt-lg-3">Learn &amp; contribute</h4>
-                    <ul class="list-style-none mb-3">
-                      <li class="edge-item-fix"><a href="/topics" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Topics">Topics</a></li>
-                        <li class="edge-item-fix"><a href="/collections" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Collections">Collections</a></li>
-                      <li class="edge-item-fix"><a href="/trending" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Trending">Trending</a></li>
-                      <li class="edge-item-fix"><a href="https://lab.github.com/" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Learning lab">Learning Lab</a></li>
-                      <li class="edge-item-fix"><a href="https://opensource.guide" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Open source guides">Open source guides</a></li>
-                    </ul>
-
-                    <h4 class="text-gray-light text-normal text-mono f5 mb-2 border-lg-top pt-lg-3">Connect with others</h4>
-                    <ul class="list-style-none mb-0">
-                      <li class="edge-item-fix"><a href="https://github.com/events" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Events">Events</a></li>
-                      <li class="edge-item-fix"><a href="https://github.community" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Community forum">Community forum</a></li>
-                      <li class="edge-item-fix"><a href="https://education.github.com" class="py-2 pb-0 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to GitHub Education">GitHub Education</a></li>
-                    </ul>
-                  </div>
-                </details>
-              </li>
-
-              <li class="border-bottom border-lg-bottom-0 mr-0 mr-lg-3">
-                <a href="/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-ga-click="(Logged out) Header, go to Marketplace">Marketplace</a>
-              </li>
-
-              <li class="d-block d-lg-flex flex-lg-nowrap flex-lg-items-center border-bottom border-lg-bottom-0 mr-0 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
-                <details class="HeaderMenu-details details-overlay details-reset width-full">
-                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap d-block d-lg-inline-block">
-                    Pricing
-                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-absolute position-lg-relative">
-                       <path d="M1,1l6.2,6L13,1"></path>
-                    </svg>
-                  </summary>
-
-                  <div class="dropdown-menu flex-auto rounded-1 bg-white px-0 pt-2 pb-4 mt-0 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
-                    <a href="/pricing" class="pb-2 lh-condensed-ultra d-block link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Pricing">Plans <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a>
-
-                    <ul class="list-style-none mb-3">
-                      <li class="edge-item-fix"><a href="/pricing#feature-comparison" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Compare plans">Compare plans</a></li>
-                      <li class="edge-item-fix"><a href="https://enterprise.github.com/contact" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Contact Sales">Contact Sales</a></li>
-                    </ul>
-
-                    <ul class="list-style-none mb-0 border-lg-top pt-lg-3">
-                      <li class="edge-item-fix"><a href="/nonprofit" class="py-2 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Nonprofits">Nonprofit <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
-                      <li class="edge-item-fix"><a href="https://education.github.com" class="py-2 pb-0 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover"  data-ga-click="(Logged out) Header, go to Education">Education <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
-                    </ul>
-                  </div>
-                </details>
-              </li>
-          </ul>
-        </nav>
-
-      <div class="d-lg-flex flex-items-center px-3 px-lg-0 text-center text-lg-left">
-          <div class="d-lg-flex mb-3 mb-lg-0">
-            <div class="header-search flex-self-stretch flex-lg-self-auto mr-0 mr-lg-3 mb-3 mb-lg-0 scoped-search site-scoped-search js-site-search position-relative js-jump-to"
-  role="combobox"
-  aria-owns="jump-to-results"
-  aria-label="Search or jump to"
-  aria-haspopup="listbox"
-  aria-expanded="false"
->
-  <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="11180687" data-scoped-search-url="/gohugoio/hugo/search" data-unscoped-search-url="/search" action="/gohugoio/hugo/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
-      <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
-        <input type="text"
-          class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
-          data-hotkey="s,/"
-          name="q"
-          value=""
-          placeholder="Search"
-          data-unscoped-placeholder="Search GitHub"
-          data-scoped-placeholder="Search"
-          autocapitalize="off"
-          aria-autocomplete="list"
-          aria-controls="jump-to-results"
-          aria-label="Search"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=ErG55ntsm7qTZgAy5BqclEbLh9MJUBhI7/4MuG5w3nRsfqjOYz8EGVHc3R3F7jIxJtSjM0yYomCeLjxo9YUvuA=="
-          spellcheck="false"
-          autocomplete="off"
-          >
-          <input type="hidden" class="js-site-search-type-field" name="type" >
-            <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
-
-            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
-              
-<ul class="d-none js-jump-to-suggestions-template-container">
-  
-
-<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
-  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
-    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
-      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
-      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"/></svg>
-      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0013 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 000-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
-    </div>
-
-    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
-
-    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
-    </div>
-
-    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
-      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
-        In this repository
-      </span>
-      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
-        All GitHub
-      </span>
-      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
-    </div>
-
-    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
-      Jump to
-      <span class="d-inline-block ml-1 v-align-middle">↵</span>
-    </div>
-  </a>
-</li>
-
-</ul>
-
-<ul class="d-none js-jump-to-no-results-template-container">
-  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
-    <span class="text-gray">No suggested jump to results</span>
-  </li>
-</ul>
-
-<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
-  
-
-<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
-  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
-    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
-      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
-      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"/></svg>
-      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0013 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 000-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
-    </div>
-
-    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
-
-    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
-    </div>
-
-    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
-      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
-        In this repository
-      </span>
-      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
-        All GitHub
-      </span>
-      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
-    </div>
-
-    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
-      Jump to
-      <span class="d-inline-block ml-1 v-align-middle">↵</span>
-    </div>
-  </a>
-</li>
-
-  
-
-<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
-  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
-    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
-      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
-      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"/></svg>
-      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0013 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 000-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
-    </div>
-
-    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
-
-    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
-    </div>
-
-    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
-      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
-        In this repository
-      </span>
-      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
-        All GitHub
-      </span>
-      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
-    </div>
-
-    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
-      Jump to
-      <span class="d-inline-block ml-1 v-align-middle">↵</span>
-    </div>
-  </a>
-</li>
-
-
-</ul>
-
-            </div>
-      </label>
-</form>  </div>
-</div>
-
-          </div>
-
-        <a href="/login?return_to=%2Fgohugoio%2Fhugo%2Fblob%2Fmaster%2Fexamples%2Fblog%2Fcontent%2Fpost%2Fhello-hugo.md"
-          class="HeaderMenu-link no-underline mr-3"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:&quot;1833809137.1577354227&quot;,&quot;originating_request_id&quot;:&quot;0B49:2674D:3744C36:5332222:5E19E278&quot;,&quot;originating_url&quot;:&quot;https://github.com/gohugoio/hugo/blob/master/examples/blog/content/post/hello-hugo.md&quot;,&quot;referrer&quot;:&quot;https://github.com/gohugoio/hugo/tree/master/examples/blog/content/post&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="41421e92905b3361d9a80ee221b191e96ff9c2d974162ffdfca8b547d6a37d36"
-          data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
-          Sign&nbsp;in
-        </a>
-          <a href="/join?source=header-repo&amp;source_repo=gohugoio%2Fhugo"
-            class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:&quot;1833809137.1577354227&quot;,&quot;originating_request_id&quot;:&quot;0B49:2674D:3744C36:5332222:5E19E278&quot;,&quot;originating_url&quot;:&quot;https://github.com/gohugoio/hugo/blob/master/examples/blog/content/post/hello-hugo.md&quot;,&quot;referrer&quot;:&quot;https://github.com/gohugoio/hugo/tree/master/examples/blog/content/post&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="41421e92905b3361d9a80ee221b191e96ff9c2d974162ffdfca8b547d6a37d36"
-            data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
-            Sign&nbsp;up
-          </a>
-      </div>
-    </div>
-  </div>
-</header>
-
-  </div>
-
-  <div id="start-of-content" class="show-on-focus"></div>
-
-
-    <div id="js-flash-container">
-
-</div>
-
-
-
-  <div class="application-main " data-commit-hovercards-enabled>
-        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
-    <main  >
-      
-
-
-  
-
-
-
-  
-
-
-
-
-
-
-
-
-
-  <div class=" pagehead repohead readability-menu experiment-repo-nav pt-0 pt-lg-4 ">
-
-    <div class="container-lg mb-4 p-responsive d-none d-lg-flex">
-
-      <div class="flex-auto min-width-0 width-fit mr-3">
-        <h1 class="public  d-flex flex-wrap flex-items-center break-word float-none">
-    <svg class="octicon octicon-repo mr-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
-  <span class="author" itemprop="author">
-    <a class="url fn" rel="author" data-hovercard-type="organization" data-hovercard-url="/orgs/gohugoio/hovercard" href="/gohugoio">gohugoio</a>
-  </span>
-  <span class="path-divider">/</span>
-  <strong itemprop="name" class="mr-2">
-    <a data-pjax="#js-repo-pjax-container" href="/gohugoio/hugo">hugo</a>
-  </strong>
-  
-</h1>
-
-
-      </div>
-
-      <ul class="pagehead-actions flex-shrink-0">
-
-    <li>
-      <details id="funding-links-modal" class="details-reset details-overlay details-overlay-dark d-inline-block float-left" >
-        <summary id="sponsor-button-repo" class="btn btn-sm"
-          title="Sponsor gohugoio/hugo"
-          data-ga-click="Repository, show sponsor modal, action:blob#show; text:Sponsor"
-          >
-          <svg class="octicon octicon-heart text-pink v-align-middle" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9 2c-.97 0-1.69.42-2.2 1-.51.58-.78.92-.8 1-.02-.08-.28-.42-.8-1-.52-.58-1.17-1-2.2-1-1.632.086-2.954 1.333-3 3 0 .52.09 1.52.67 2.67C1.25 8.82 3.01 10.61 6 13c2.98-2.39 4.77-4.17 5.34-5.33C11.91 6.51 12 5.5 12 5c-.047-1.69-1.342-2.913-3-3z"/></svg>
-          Sponsor
-        </summary>
-        <details-dialog
-          class="anim-fade-in fast Box Box--overlay d-flex flex-column"
-            src="/gohugoio/hugo/funding_links?fragment=1"
-            preload
-          >
-          <div class="Box-header">
-            <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-              <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
-            </button>
-            <h3 class="Box-title">
-              Sponsor gohugoio/hugo
-            </h3>
-          </div>
-          <div class="overflow-auto">
-            <include-fragment
-              >
-              <div class="octocat-spinner my-3" aria-label="Loading..."></div>
-            </include-fragment>
-          </div>
-        </details-dialog>
-      </details>
-    </li>
-
-
-
-  <li>
-    
-  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:&quot;1833809137.1577354227&quot;,&quot;originating_request_id&quot;:&quot;0B49:2674D:3744C36:5332222:5E19E278&quot;,&quot;originating_url&quot;:&quot;https://github.com/gohugoio/hugo/blob/master/examples/blog/content/post/hello-hugo.md&quot;,&quot;referrer&quot;:&quot;https://github.com/gohugoio/hugo/tree/master/examples/blog/content/post&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d15806c8e51666a0d9df919994611b2ae6d363ca62c65155536c56eef76181ed" href="/login?return_to=%2Fgohugoio%2Fhugo">
-    <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
-    Watch
-</a>    <a class="social-count" href="/gohugoio/hugo/watchers"
-       aria-label="1025 users are watching this repository">
-      1k
-    </a>
-
-  </li>
-
-  <li>
-        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:11180687,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:&quot;1833809137.1577354227&quot;,&quot;originating_request_id&quot;:&quot;0B49:2674D:3744C36:5332222:5E19E278&quot;,&quot;originating_url&quot;:&quot;https://github.com/gohugoio/hugo/blob/master/examples/blog/content/post/hello-hugo.md&quot;,&quot;referrer&quot;:&quot;https://github.com/gohugoio/hugo/tree/master/examples/blog/content/post&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="900c26f416869fcfdfa377019b8881e65760736ce7ee690be89cd9a320df0a0e" href="/login?return_to=%2Fgohugoio%2Fhugo">
-      <svg aria-label="star" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
-
-      Star
-</a>
-    <a class="social-count js-social-count" href="/gohugoio/hugo/stargazers"
-      aria-label="40828 users starred this repository">
-      40.8k
-    </a>
-
-  </li>
-
-  <li>
-      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:11180687,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:&quot;1833809137.1577354227&quot;,&quot;originating_request_id&quot;:&quot;0B49:2674D:3744C36:5332222:5E19E278&quot;,&quot;originating_url&quot;:&quot;https://github.com/gohugoio/hugo/blob/master/examples/blog/content/post/hello-hugo.md&quot;,&quot;referrer&quot;:&quot;https://github.com/gohugoio/hugo/tree/master/examples/blog/content/post&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="269ee30ee4183719244570dfd0f13007985202f3436d62b14b5f716dac49799b" href="/login?return_to=%2Fgohugoio%2Fhugo">
-        <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-        Fork
-</a>
-    <a href="/gohugoio/hugo/network/members" class="social-count"
-       aria-label="4612 users forked this repository">
-      4.6k
-    </a>
-  </li>
-</ul>
-
-    </div>
-    
-<nav class="hx_reponav reponav js-repo-nav js-sidenav-container-pjax clearfix container-lg p-responsive d-none d-lg-block"
-     itemscope
-     itemtype="http://schema.org/BreadcrumbList"
-    aria-label="Repository"
-     data-pjax="#js-repo-pjax-container">
-
-  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /gohugoio/hugo" href="/gohugoio/hugo">
-      <div class="d-inline"><svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg></div>
-      <span itemprop="name">Code</span>
-      <meta itemprop="position" content="1">
-</a>  </span>
-
-    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /gohugoio/hugo/issues" href="/gohugoio/hugo/issues">
-        <div class="d-inline"><svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 011.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg></div>
-        <span itemprop="name">Issues</span>
-        <span class="Counter">399</span>
-        <meta itemprop="position" content="2">
-</a>    </span>
-
-
-  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a data-hotkey="g p" data-skip-pjax="true" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /gohugoio/hugo/pulls" href="/gohugoio/hugo/pulls">
-      <div class="d-inline"><svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0010 15a1.993 1.993 0 001-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 00-1 3.72v6.56A1.993 1.993 0 002 15a1.993 1.993 0 001-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg></div>
-      <span itemprop="name">Pull requests</span>
-      <span class="Counter">39</span>
-      <meta itemprop="position" content="4">
-</a>  </span>
-
-
-    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /gohugoio/hugo/projects" href="/gohugoio/hugo/projects">
-      <div class="d-inline"><svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"/></svg></div>
-      Projects
-      <span class="Counter" >0</span>
-</a>
-
-
-    <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy code_scanning /gohugoio/hugo/security/advisories" href="/gohugoio/hugo/security/advisories">
-      <div class="d-inline"><svg class="octicon octicon-shield" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 2l7-2 7 2v6.02C14 12.69 8.69 16 7 16c-1.69 0-7-3.31-7-7.98V2zm1 .75L7 1l6 1.75v5.268C13 12.104 8.449 15 7 15c-1.449 0-6-2.896-6-6.982V2.75zm1 .75L7 2v12c-1.207 0-5-2.482-5-5.985V3.5z"/></svg></div>
-      Security
-</a>
-    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse people /gohugoio/hugo/pulse" href="/gohugoio/hugo/pulse">
-      <div class="d-inline"><svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg></div>
-      Insights
-</a>
-
-</nav>
-
-  <div class="reponav-wrapper reponav-small d-lg-none">
-  <nav class="reponav js-reponav text-center no-wrap"
-       itemscope
-       itemtype="http://schema.org/BreadcrumbList">
-
-    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /gohugoio/hugo" href="/gohugoio/hugo">
-        <span itemprop="name">Code</span>
-        <meta itemprop="position" content="1">
-</a>    </span>
-
-      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /gohugoio/hugo/issues" href="/gohugoio/hugo/issues">
-          <span itemprop="name">Issues</span>
-          <span class="Counter">399</span>
-          <meta itemprop="position" content="2">
-</a>      </span>
-
-    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /gohugoio/hugo/pulls" href="/gohugoio/hugo/pulls">
-        <span itemprop="name">Pull requests</span>
-        <span class="Counter">39</span>
-        <meta itemprop="position" content="3">
-</a>    </span>
-
-      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /gohugoio/hugo/projects" href="/gohugoio/hugo/projects">
-          <span itemprop="name">Projects</span>
-          <span class="Counter">0</span>
-          <meta itemprop="position" content="4">
-</a>      </span>
-
-
-      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy code_scanning /gohugoio/hugo/security/advisories" href="/gohugoio/hugo/security/advisories">
-        <span itemprop="name">Security</span>
-        <meta itemprop="position" content="6">
-</a>
-      <a class="js-selected-navigation-item reponav-item" data-selected-links="pulse /gohugoio/hugo/pulse" href="/gohugoio/hugo/pulse">
-        Pulse
-</a>
-
-  </nav>
-</div>
-
-
-  </div>
-<div class="container-lg clearfix new-discussion-timeline experiment-repo-nav  p-responsive">
-  <div class="repository-content ">
-
-    
-    
-
-
-  
-
-
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/gohugoio/hugo/blob/94cfdf6befd657e46c9458b23f17d851cd2f7037/examples/blog/content/post/hello-hugo.md">Permalink</a>
-
-    <!-- blob contrib key: blob_contributors:v21:b83175f2bb1e11753841bd155dd4961c -->
-          <div class="signup-prompt-bg rounded-1">
-      <div class="signup-prompt p-4 text-center mb-4 rounded-1">
-        <div class="position-relative">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="23X/WRT8Xw2M/Amn5+QL4VvFS8IzEMD+AT22kRE6SmLqD+zAvXV7sQaoipmybdOS/EuSZAHzRzuEFHDNIlwdsA==" />
-            <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
-              Dismiss
-            </button>
-</form>          <h3 class="pt-2">Join GitHub today</h3>
-          <p class="col-6 mx-auto">GitHub is home to over 40 million developers working together to host and review code, manage projects, and build software together.</p>
-          <a class="btn btn-primary" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:&quot;1833809137.1577354227&quot;,&quot;originating_request_id&quot;:&quot;0B49:2674D:3744C36:5332222:5E19E278&quot;,&quot;originating_url&quot;:&quot;https://github.com/gohugoio/hugo/blob/master/examples/blog/content/post/hello-hugo.md&quot;,&quot;referrer&quot;:&quot;https://github.com/gohugoio/hugo/tree/master/examples/blog/content/post&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="edc09e2b73a1ae8bd3cb12cef4b62706f6583a7315c868b1d317a89f75fa1068" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" href="/join?source=prompt-blob-show&amp;source_repo=gohugoio%2Fhugo">Sign up</a>
-        </div>
-      </div>
-    </div>
-
-
-    <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-column flex-md-row">
-      <span class="d-flex flex-justify-between width-full width-md-auto">
-        
-<details class="details-reset details-overlay select-menu branch-select-menu  hx_rsm" id="branch-select-menu">
-  <summary class="btn btn-sm select-menu-button css-truncate"
-           data-hotkey="w"
-           title="Switch branches or tags">
-    <i>Branch:</i>
-    <span class="css-truncate-target" data-menu-button>master</span>
-  </summary>
-
-  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/gohugoio/hugo/refs/master/examples/blog/content/post/hello-hugo.md?source_action=show&amp;source_controller=blob" preload>
-    <include-fragment class="select-menu-loading-overlay anim-pulse">
-      <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
-    </include-fragment>
-  </details-menu>
-</details>
-
-        <div class="BtnGroup flex-shrink-0 d-md-none">
-          <a href="/gohugoio/hugo/find/master"
-                class="js-pjax-capture-input btn btn-sm BtnGroup-item"
-                data-pjax
-                data-hotkey="t">
-            Find file
-          </a>
-          <clipboard-copy value="examples/blog/content/post/hello-hugo.md" class="btn btn-sm BtnGroup-item">
-            Copy path
-          </clipboard-copy>
-        </div>
-      </span>
-      <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/gohugoio/hugo"><span>hugo</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/gohugoio/hugo/tree/master/examples"><span>examples</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/gohugoio/hugo/tree/master/examples/blog"><span>blog</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/gohugoio/hugo/tree/master/examples/blog/content"><span>content</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/gohugoio/hugo/tree/master/examples/blog/content/post"><span>post</span></a></span><span class="separator">/</span><strong class="final-path">hello-hugo.md</strong>
-      </h2>
-
-      <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
-        <a href="/gohugoio/hugo/find/master"
-              class="js-pjax-capture-input btn btn-sm BtnGroup-item"
-              data-pjax
-              data-hotkey="t">
-          Find file
-        </a>
-        <clipboard-copy value="examples/blog/content/post/hello-hugo.md" class="btn btn-sm BtnGroup-item">
-          Copy path
-        </clipboard-copy>
-      </div>
-    </div>
-
-    
-
-
-
-    
-  <div class="Box Box--condensed d-flex flex-column flex-shrink-0">
-      <div class="Box-body d-flex flex-justify-between bg-blue-light flex-column flex-md-row flex-items-start flex-md-items-center">
-        <span class="pr-md-4 f6">
-          <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/k4rtik/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/k4rtik"><img class="avatar" src="https://avatars2.githubusercontent.com/u/374340?s=40&amp;v=4" width="20" height="20" alt="@k4rtik" /></a>
-          <a class="text-bold link-gray-dark lh-default v-align-middle" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/k4rtik/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/k4rtik">k4rtik</a>
-            <span class="lh-default v-align-middle">
-              <a data-pjax="true" title="Switch to new hompage" class="link-gray" href="/gohugoio/hugo/commit/879e90dca710dc2ebac8a6e93b3258ad0a82aa91">Switch to new hompage</a>
-            </span>
-        </span>
-        <span class="d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0">
-          <a class="pr-2 text-mono link-gray" href="/gohugoio/hugo/commit/879e90dca710dc2ebac8a6e93b3258ad0a82aa91" data-pjax>879e90d</a>
-          <relative-time datetime="2014-10-02T17:39:59Z" class="no-wrap">Oct 2, 2014</relative-time>
-        </span>
-      </div>
-
-    <div class="Box-body d-flex flex-items-center flex-auto f6 border-bottom-0 flex-wrap" >
-      <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
-        <summary class="btn-link">
-          <span><strong>3</strong> contributors</span>
-        </summary>
-        <details-dialog
-          class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-          aria-label="Users who have contributed to this file"
-          src="/gohugoio/hugo/contributors-list/master/examples/blog/content/post/hello-hugo.md" preload>
-          <div class="Box-header">
-            <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-              <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
-            </button>
-            <h3 class="Box-title">
-              Users who have contributed to this file
-            </h3>
-          </div>
-          <include-fragment class="octocat-spinner my-3" aria-label="Loading..."></include-fragment>
-        </details-dialog>
-      </details>
-        <span class="">
-    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/k4rtik/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/gohugoio/hugo/commits/master/examples/blog/content/post/hello-hugo.md?author=k4rtik">
-      <img class="avatar mr-1" src="https://avatars2.githubusercontent.com/u/374340?s=40&amp;v=4" width="20" height="20" alt="@k4rtik" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/anthonyfok/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/gohugoio/hugo/commits/master/examples/blog/content/post/hello-hugo.md?author=anthonyfok">
-      <img class="avatar mr-1" src="https://avatars0.githubusercontent.com/u/1274764?s=40&amp;v=4" width="20" height="20" alt="@anthonyfok" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/tehbilly/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/gohugoio/hugo/commits/master/examples/blog/content/post/hello-hugo.md?author=tehbilly">
-      <img class="avatar mr-1" src="https://avatars1.githubusercontent.com/u/1431035?s=40&amp;v=4" width="20" height="20" alt="@tehbilly" /> 
-</a>
-</span>
-
-    </div>
-  </div>
-
-
-
-
-
-    <div class="Box mt-3 position-relative">
-      
-<div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
-  <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
-
-      61 lines (49 sloc)
-      <span class="file-info-divider"></span>
-    1.88 KB
-  </div>
-
-  <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
-
-    <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/gohugoio/hugo/raw/master/examples/blog/content/post/hello-hugo.md">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/gohugoio/hugo/blame/master/examples/blog/content/post/hello-hugo.md">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/gohugoio/hugo/commits/master/examples/blog/content/post/hello-hugo.md">History</a>
-    </div>
-
-
-    <div>
-            <a class="btn-octicon tooltipped tooltipped-nw hide-sm"
-               href="https://desktop.github.com"
-               aria-label="Open this file in GitHub Desktop"
-               data-ga-click="Repository, open with desktop, type:windows">
-                <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
-            </a>
-
-          <button type="button" class="btn-octicon disabled tooltipped tooltipped-nw"
-            aria-label="You must be signed in to make or propose changes">
-            <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 011.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
-          </button>
-          <button type="button" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
-            aria-label="You must be signed in to make or propose changes">
-            <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
-          </button>
-    </div>
-  </div>
-</div>
-
-
-
-
-      
-  <div id="readme" class="Box-body readme blob js-code-block-container">
-    <article class="markdown-body entry-content p-3 p-md-6" itemprop="text"><table data-table-type="yaml-metadata">
-  <thead>
-  <tr>
-  <th>title</th>
-  <th>description</th>
-  <th>date</th>
-  <th>categories</th>
-  <th>tags</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div>Hello Hugo!</div></td>
-  <td><div>Saying 'Hello' from Hugo</div></td>
-  <td><div>2014-09-01</div></td>
-  <td><div><table>
-  <tbody>
-  <tr>
-  <td><div>example</div></td>
-  <td><div>hello</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  <td><div><table>
-  <tbody>
-  <tr>
-  <td><div>example</div></td>
-  <td><div>hugo</div></td>
-  <td><div>blog</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  </tr>
-  </tbody>
-</table>
-
-<p>Hello from Hugo! If you're reading this in your browser, good job! The file <code>content/post/hello-hugo.md</code> has been
-converted into a complete HTML document by Hugo. Isn't that pretty nifty?</p>
-<h2><a id="user-content-a-section" class="anchor" aria-hidden="true" href="#a-section"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>A Section</h2>
-<p>Here's a simple titled section where you can place whatever information you want.</p>
-<p>You can use inline HTML if you want, but really there's not much that Markdown can't do.</p>
-<h2><a id="user-content-showing-off-with-markdown" class="anchor" aria-hidden="true" href="#showing-off-with-markdown"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Showing off with Markdown</h2>
-<p>A full cheat sheet can be found <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">here</a>
-or through <a href="https://google.com/" rel="nofollow">Google</a>.</p>
-<p>There are some <em>easy</em> examples for styling, though. I can't <strong>emphasize</strong> that enough.
-Creating <a href="https://google.com/" rel="nofollow">links</a> or <code>inline code</code> blocks are very straightforward.</p>
-<pre><code>There are some *easy* examples for styling, though. I can't **emphasize** that enough.
-Creating [links](https://google.com/) or `inline code` blocks are very straightforward.
-</code></pre>
-<h2><a id="user-content-front-matter-for-fun" class="anchor" aria-hidden="true" href="#front-matter-for-fun"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Front Matter for Fun</h2>
-<p>This is the meta data for this post. It is located at the top of the <code>content/post/hello-hugo.md</code> markdown file.</p>
-<pre><code>---
-title: "Hello Hugo!"
-description: "Saying 'Hello' from Hugo"
-date: "2014-09-01"
-categories:
-  - "example"
-  - "hello"
-tags:
-  - "example"
-  - "hugo"
-  - "blog"
 ---
-</code></pre>
-<p>This section, called 'Front Matter', is what tells Hugo about the content in this file: the <code>title</code> of the item, the
-<code>description</code>, and the <code>date</code> it was posted. In our example, we've added two custom bits of data too. The <code>categories</code> and
-<code>tags</code> sections are used in this example for indexing/grouping content. You will learn more about what that means by
-examining the code in this example and through reading the Hugo <a href="http://gohugo.io/overview/introduction" rel="nofollow">documentation</a>.</p>
-</article>
-  </div>
+author:
+  name: "Michael Henderson"
+date: 2014-09-28
+linktitle: Creating a New Theme
+type:
+- post 
+- posts
+title: Creating a New Theme
+weight: 10
+series:
+- Hugo 101
+---
 
-    </div>
 
+## Introduction
+
+This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
+
+We'll start with creating a new site with a very basic template. Then we'll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.
+
+In this tutorial, commands that you enter will start with the "$" prompt. The output will follow. Lines that start with "#" are comments that I've added to explain a point. When I show updates to a file, the ":wq" on the last line means to save the file.
+
+Here's an example:
+
+```
+## this is a comment
+$ echo this is a command
+this is a command
+
+## edit the file
+$ vi foo.md
++++
+date = "2014-09-28"
+title = "creating a new theme"
++++
+
+bah and humbug
+:wq
+
+## show it
+$ cat foo.md
++++
+date = "2014-09-28"
+title = "creating a new theme"
++++
+
+bah and humbug
+$
+```
+
+
+## Some Definitions
+
+There are a few concepts that you need to understand before creating a theme.
+
+### Skins
+
+Skins are the files responsible for the look and feel of your site. It’s the CSS that controls colors and fonts, it’s the Javascript that determines actions and reactions. It’s also the rules that Hugo uses to transform your content into the HTML that the site will serve to visitors.
+
+You have two ways to create a skin. The simplest way is to create it in the ```layouts/``` directory. If you do, then you don’t have to worry about configuring Hugo to recognize it. The first place that Hugo will look for rules and files is in the ```layouts/``` directory so it will always find the skin.
+
+Your second choice is to create it in a sub-directory of the ```themes/``` directory. If you do, then you must always tell Hugo where to search for the skin. It’s extra work, though, so why bother with it?
+
+The difference between creating a skin in ```layouts/``` and creating it in ```themes/``` is very subtle. A skin in ```layouts/``` can’t be customized without updating the templates and static files that it is built from. A skin created in ```themes/```, on the other hand, can be and that makes it easier for other people to use it.
+
+The rest of this tutorial will call a skin created in the ```themes/``` directory a theme.
+
+Note that you can use this tutorial to create a skin in the ```layouts/``` directory if you wish to. The main difference will be that you won’t need to update the site’s configuration file to use a theme.
+
+### The Home Page
+
+The home page, or landing page, is the first page that many visitors to a site see. It is the index.html file in the root directory of the web site. Since Hugo writes files to the public/ directory, our home page is public/index.html.
+
+### Site Configuration File
+
+When Hugo runs, it looks for a configuration file that contains settings that override default values for the entire site. The file can use TOML, YAML, or JSON. I prefer to use TOML for my configuration files. If you prefer to use JSON or YAML, you’ll need to translate my examples. You’ll also need to change the name of the file since Hugo uses the extension to determine how to process it.
+
+Hugo translates Markdown files into HTML. By default, Hugo expects to find Markdown files in your ```content/``` directory and template files in your ```themes/``` directory. It will create HTML files in your ```public/``` directory. You can change this by specifying alternate locations in the configuration file.
+
+### Content
+
+Content is stored in text files that contain two sections. The first section is the “front matter,” which is the meta-information on the content. The second section contains Markdown that will be converted to HTML.
+
+#### Front Matter
+
+The front matter is information about the content. Like the configuration file, it can be written in TOML, YAML, or JSON. Unlike the configuration file, Hugo doesn’t use the file’s extension to know the format. It looks for markers to signal the type. TOML is surrounded by “`+++`”, YAML by “`---`”, and JSON is enclosed in curly braces. I prefer to use TOML, so you’ll need to translate my examples if you prefer YAML or JSON.
+
+The information in the front matter is passed into the template before the content is rendered into HTML.
+
+#### Markdown
+
+Content is written in Markdown which makes it easier to create the content. Hugo runs the content through a Markdown engine to create the HTML which will be written to the output file.
+
+### Template Files
+
+Hugo uses template files to render content into HTML. Template files are a bridge between the content and presentation. Rules in the template define what content is published, where it's published to, and how it will rendered to the HTML file. The template guides the presentation by specifying the style to use.
+
+There are three types of templates: single, list, and partial. Each type takes a bit of content as input and transforms it based on the commands in the template.
+
+Hugo uses its knowledge of the content to find the template file used to render the content. If it can’t find a template that is an exact match for the content, it will shift up a level and search from there. It will continue to do so until it finds a matching template or runs out of templates to try. If it can’t find a template, it will use the default template for the site.
+
+Please note that you can use the front matter to influence Hugo’s choice of templates.
+
+#### Single Template
+
+A single template is used to render a single piece of content. For example, an article or post would be a single piece of content and use a single template.
+
+#### List Template
+
+A list template renders a group of related content. That could be a summary of recent postings or all articles in a category. List templates can contain multiple groups.
+
+The homepage template is a special type of list template. Hugo assumes that the home page of your site will act as the portal for the rest of the content in the site.
+
+#### Partial Template
+
+A partial template is a template that can be included in other templates. Partial templates must be called using the “partial” template command. They are very handy for rolling up common behavior. For example, your site may have a banner that all pages use. Instead of copying the text of the banner into every single and list template, you could create a partial with the banner in it. That way if you decide to change the banner, you only have to change the partial template.
+
+## Create a New Site
+
+Let's use Hugo to create a new web site. I'm a Mac user, so I'll create mine in my home directory, in the Sites folder. If you're using Linux, you might have to create the folder first.
+
+The "new site" command will create a skeleton of a site. It will give you the basic directory structure and a useable configuration file.
+
+```
+$ hugo new site ~/Sites/zafta
+$ cd ~/Sites/zafta
+$ ls -l
+total 8
+drwxr-xr-x  7 quoha  staff  238 Sep 29 16:49 .
+drwxr-xr-x  3 quoha  staff  102 Sep 29 16:49 ..
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 archetypes
+-rw-r--r--  1 quoha  staff   82 Sep 29 16:49 config.toml
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 content
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 layouts
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 static
+$
+```
+
+Take a look in the content/ directory to confirm that it is empty.
+
+The other directories (archetypes/, layouts/, and static/) are used when customizing a theme. That's a topic for a different tutorial, so please ignore them for now.
+
+### Generate the HTML For the New Site
+
+Running the `hugo` command with no options will read all the available content and generate the HTML files. It will also copy all static files (that's everything that's not content). Since we have an empty site, it won't do much, but it will do it very quickly.
+
+```
+$ hugo --verbose
+INFO: 2014/09/29 Using config file: config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
+WARN: 2014/09/29 Unable to locate layout: [404.html]
+0 draft content 
+0 future content 
+0 pages created 
+0 tags created
+0 categories created
+in 2 ms
+$ 
+```
+
+The "`--verbose`" flag gives extra information that will be helpful when we build the template. Every line of the output that starts with "INFO:" or "WARN:" is present because we used that flag. The lines that start with "WARN:" are warning messages. We'll go over them later.
+
+We can verify that the command worked by looking at the directory again.
+
+```
+$ ls -l
+total 8
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 archetypes
+-rw-r--r--  1 quoha  staff   82 Sep 29 16:49 config.toml
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 content
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 layouts
+drwxr-xr-x  4 quoha  staff  136 Sep 29 17:02 public
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 static
+$
+```
+
+See that new public/ directory? Hugo placed all generated content there. When you're ready to publish your web site, that's the place to start. For now, though, let's just confirm that we have what we'd expect from a site with no content.
+
+```
+$ ls -l public
+total 16
+-rw-r--r--  1 quoha  staff  416 Sep 29 17:02 index.xml
+-rw-r--r--  1 quoha  staff  262 Sep 29 17:02 sitemap.xml
+$ 
+```
+
+Hugo created two XML files, which is standard, but there are no HTML files.
+
+
+
+### Test the New Site
+
+Verify that you can run the built-in web server. It will dramatically shorten your development cycle if you do. Start it by running the "server" command. If it is successful, you will see output similar to the following:
+
+```
+$ hugo server --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
+WARN: 2014/09/29 Unable to locate layout: [404.html]
+0 draft content 
+0 future content 
+0 pages created 
+0 tags created
+0 categories created
+in 2 ms
+Serving pages from /Users/quoha/Sites/zafta/public
+Web Server is available at http://localhost:1313
+Press Ctrl+C to stop
+```
+
+Connect to the listed URL (it's on the line that starts with "Web Server"). If everything is working correctly, you should get a page that shows the following:
+
+```
+index.xml
+sitemap.xml
+```
+
+That's a listing of your public/ directory. Hugo didn't create a home page because our site has no content. When there's no index.html file in a directory, the server lists the files in the directory, which is what you should see in your browser.
+
+Let’s go back and look at those warnings again.
+
+```
+WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
+WARN: 2014/09/29 Unable to locate layout: [404.html]
+```
+
+That second warning is easier to explain. We haven’t created a template to be used to generate “page not found errors.” The 404 message is a topic for a separate tutorial.
+
+Now for the first warning. It is for the home page. You can tell because the first layout that it looked for was “index.html.” That’s only used by the home page.
+
+I like that the verbose flag causes Hugo to list the files that it's searching for. For the home page, they are index.html, _default/list.html, and _default/single.html. There are some rules that we'll cover later that explain the names and paths. For now, just remember that Hugo couldn't find a template for the home page and it told you so.
+
+At this point, you've got a working installation and site that we can build upon. All that’s left is to add some content and a theme to display it.
+
+## Create a New Theme
+
+Hugo doesn't ship with a default theme. There are a few available (I counted a dozen when I first installed Hugo) and Hugo comes with a command to create new themes.
+
+We're going to create a new theme called "zafta." Since the goal of this tutorial is to show you how to fill out the files to pull in your content, the theme will not contain any CSS. In other words, ugly but functional.
+
+All themes have opinions on content and layout. For example, Zafta uses "post" over "blog". Strong opinions make for simpler templates but differing opinions make it tougher to use themes. When you build a theme, consider using the terms that other themes do.
+
+
+### Create a Skeleton
+
+Use the hugo "new" command to create the skeleton of a theme. This creates the directory structure and places empty files for you to fill out.
+
+```
+$ hugo new theme zafta
+
+$ ls -l
+total 8
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 archetypes
+-rw-r--r--  1 quoha  staff   82 Sep 29 16:49 config.toml
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 content
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 layouts
+drwxr-xr-x  4 quoha  staff  136 Sep 29 17:02 public
+drwxr-xr-x  2 quoha  staff   68 Sep 29 16:49 static
+drwxr-xr-x  3 quoha  staff  102 Sep 29 17:31 themes
+
+$ find themes -type f | xargs ls -l
+-rw-r--r--  1 quoha  staff  1081 Sep 29 17:31 themes/zafta/LICENSE.md
+-rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/archetypes/default.md
+-rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/_default/list.html
+-rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/_default/single.html
+-rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/index.html
+-rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/partials/footer.html
+-rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/partials/header.html
+-rw-r--r--  1 quoha  staff    93 Sep 29 17:31 themes/zafta/theme.toml
+$ 
+```
+
+The skeleton includes templates (the files ending in .html), license file, a description of your theme (the theme.toml file), and an empty archetype.
+
+Please take a minute to fill out the theme.toml and LICENSE.md files. They're optional, but if you're going to be distributing your theme, it tells the world who to praise (or blame). It's also nice to declare the license so that people will know how they can use the theme.
+
+```
+$ vi themes/zafta/theme.toml
+author = "michael d henderson"
+description = "a minimal working template"
+license = "MIT"
+name = "zafta"
+source_repo = ""
+tags = ["tags", "categories"]
+:wq
+
+## also edit themes/zafta/LICENSE.md and change
+## the bit that says "YOUR_NAME_HERE"
+```
+
+Note that the the skeleton's template files are empty. Don't worry, we'll be changing that shortly.
+
+```
+$ find themes/zafta -name '*.html' | xargs ls -l
+-rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/_default/list.html
+-rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/_default/single.html
+-rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/index.html
+-rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/partials/footer.html
+-rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/partials/header.html
+$
+```
+
+
+
+### Update the Configuration File to Use the Theme
+
+Now that we've got a theme to work with, it's a good idea to add the theme name to the configuration file. This is optional, because you can always add "-t zafta" on all your commands. I like to put it the configuration file because I like shorter command lines. If you don't put it in the configuration file or specify it on the command line, you won't use the template that you're expecting to.
+
+Edit the file to add the theme, add a title for the site, and specify that all of our content will use the TOML format.
+
+```
+$ vi config.toml
+theme = "zafta"
+baseurl = ""
+languageCode = "en-us"
+title = "zafta - totally refreshing"
+MetaDataFormat = "toml"
+:wq
+
+$
+```
+
+### Generate the Site
+
+Now that we have an empty theme, let's generate the site again.
+
+```
+$ hugo --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content 
+0 future content 
+0 pages created 
+0 tags created
+0 categories created
+in 2 ms
+$
+```
+
+Did you notice that the output is different? The warning message for the home page has disappeared and we have an additional information line saying that Hugo is syncing from the theme's directory.
+
+Let's check the public/ directory to see what Hugo's created.
+
+```
+$ ls -l public
+total 16
+drwxr-xr-x  2 quoha  staff   68 Sep 29 17:56 css
+-rw-r--r--  1 quoha  staff    0 Sep 29 17:56 index.html
+-rw-r--r--  1 quoha  staff  407 Sep 29 17:56 index.xml
+drwxr-xr-x  2 quoha  staff   68 Sep 29 17:56 js
+-rw-r--r--  1 quoha  staff  243 Sep 29 17:56 sitemap.xml
+$
+```
+
+Notice four things:
+
+1. Hugo created a home page. This is the file public/index.html.
+2. Hugo created a css/ directory.
+3. Hugo created a js/ directory.
+4. Hugo claimed that it created 0 pages. It created a file and copied over static files, but didn't create any pages. That's because it considers a "page" to be a file created directly from a content file. It doesn't count things like the index.html files that it creates automatically.
+
+#### The Home Page
+
+Hugo supports many different types of templates. The home page is special because it gets its own type of template and its own template file. The file, layouts/index.html, is used to generate the HTML for the home page. The Hugo documentation says that this is the only required template, but that depends. Hugo's warning message shows that it looks for three different templates:
+
+```
+WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
+```
+
+If it can't find any of these, it completely skips creating the home page. We noticed that when we built the site without having a theme installed.
+
+When Hugo created our theme, it created an empty home page template. Now, when we build the site, Hugo finds the template and uses it to generate the HTML for the home page. Since the template file is empty, the HTML file is empty, too. If the template had any rules in it, then Hugo would have used them to generate the home page.
+
+```
+$ find . -name index.html | xargs ls -l
+-rw-r--r--  1 quoha  staff  0 Sep 29 20:21 ./public/index.html
+-rw-r--r--  1 quoha  staff  0 Sep 29 17:31 ./themes/zafta/layouts/index.html
+$ 
+```
+
+#### The Magic of Static
+
+Hugo does two things when generating the site. It uses templates to transform content into HTML and it copies static files into the site. Unlike content, static files are not transformed. They are copied exactly as they are.
+
+Hugo assumes that your site will use both CSS and JavaScript, so it creates directories in your theme to hold them. Remember opinions? Well, Hugo's opinion is that you'll store your CSS in a directory named css/ and your JavaScript in a directory named js/. If you don't like that, you can change the directory names in your theme directory or even delete them completely. Hugo's nice enough to offer its opinion, then behave nicely if you disagree.
+
+```
+$ find themes/zafta -type d | xargs ls -ld
+drwxr-xr-x  7 quoha  staff  238 Sep 29 17:38 themes/zafta
+drwxr-xr-x  3 quoha  staff  102 Sep 29 17:31 themes/zafta/archetypes
+drwxr-xr-x  5 quoha  staff  170 Sep 29 17:31 themes/zafta/layouts
+drwxr-xr-x  4 quoha  staff  136 Sep 29 17:31 themes/zafta/layouts/_default
+drwxr-xr-x  4 quoha  staff  136 Sep 29 17:31 themes/zafta/layouts/partials
+drwxr-xr-x  4 quoha  staff  136 Sep 29 17:31 themes/zafta/static
+drwxr-xr-x  2 quoha  staff   68 Sep 29 17:31 themes/zafta/static/css
+drwxr-xr-x  2 quoha  staff   68 Sep 29 17:31 themes/zafta/static/js
+$ 
+```
+
+## The Theme Development Cycle
+
+When you're working on a theme, you will make changes in the theme's directory, rebuild the site, and check your changes in the browser. Hugo makes this very easy:
+
+1. Purge the public/ directory.
+2. Run the built in web server in watch mode.
+3. Open your site in a browser.
+4. Update the theme.
+5. Glance at your browser window to see changes.
+6. Return to step 4.
+
+I’ll throw in one more opinion: never work on a theme on a live site. Always work on a copy of your site. Make changes to your theme, test them, then copy them up to your site. For added safety, use a tool like Git to keep a revision history of your content and your theme. Believe me when I say that it is too easy to lose both your mind and your changes.
+
+Check the main Hugo site for information on using Git with Hugo.
+
+### Purge the public/ Directory
+
+When generating the site, Hugo will create new files and update existing ones in the ```public/``` directory. It will not delete files that are no longer used. For example, files that were created in the wrong directory or with the wrong title will remain. If you leave them, you might get confused by them later. I recommend cleaning out your site prior to generating it.
+
+Note: If you're building on an SSD, you should ignore this. Churning on a SSD can be costly.
+
+### Hugo's Watch Option
+
+Hugo's "`--watch`" option will monitor the content/ and your theme directories for changes and rebuild the site automatically.
+
+### Live Reload
+
+Hugo's built in web server supports live reload. As pages are saved on the server, the browser is told to refresh the page. Usually, this happens faster than you can say, "Wow, that's totally amazing."
+
+### Development Commands
+
+Use the following commands as the basis for your workflow.
+
+```
+## purge old files. hugo will recreate the public directory.
+##
+$ rm -rf public
+##
+## run hugo in watch mode
+##
+$ hugo server --watch --verbose
+```
+
+Here's sample output showing Hugo detecting a change to the template for the home page. Once generated, the web browser automatically reloaded the page. I've said this before, it's amazing.
+
+
+```
+$ rm -rf public
+$ hugo server --watch --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content 
+0 future content 
+0 pages created 
+0 tags created
+0 categories created
+in 2 ms
+Watching for changes in /Users/quoha/Sites/zafta/content
+Serving pages from /Users/quoha/Sites/zafta/public
+Web Server is available at http://localhost:1313
+Press Ctrl+C to stop
+INFO: 2014/09/29 File System Event: ["/Users/quoha/Sites/zafta/themes/zafta/layouts/index.html": MODIFY|ATTRIB]
+Change detected, rebuilding site
+
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content 
+0 future content 
+0 pages created 
+0 tags created
+0 categories created
+in 1 ms
+```
+
+## Update the Home Page Template
+
+The home page is one of a few special pages that Hugo creates automatically. As mentioned earlier, it looks for one of three files in the theme's layout/ directory:
+
+1. index.html
+2. _default/list.html
+3. _default/single.html
+
+We could update one of the default templates, but a good design decision is to update the most specific template available. That's not a hard and fast rule (in fact, we'll break it a few times in this tutorial), but it is a good generalization.
+
+### Make a Static Home Page
+
+Right now, that page is empty because we don't have any content and we don't have any logic in the template. Let's change that by adding some text to the template.
+
+```
+$ vi themes/zafta/layouts/index.html
+<!DOCTYPE html> 
+<html> 
+<body> 
+  <p>hugo says hello!</p> 
+</body> 
+</html> 
+:wq
+
+$
+```
+
+Build the web site and then verify the results.
+
+```
+$ hugo --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content 
+0 future content 
+0 pages created 
+0 tags created
+0 categories created
+in 2 ms
+
+$ find public -type f -name '*.html' | xargs ls -l
+-rw-r--r--  1 quoha  staff  78 Sep 29 21:26 public/index.html
+
+$ cat public/index.html 
+<!DOCTYPE html> 
+<html> 
+<body> 
+  <p>hugo says hello!</p> 
+</html>
+```
+
+#### Live Reload
+
+Note: If you're running the server with the `--watch` option, you'll see different content in the file:
+
+```
+$ cat public/index.html 
+<!DOCTYPE html> 
+<html> 
+<body> 
+  <p>hugo says hello!</p> 
+<script>document.write('<script src="http://' 
+        + (location.host || 'localhost').split(':')[0] 
+    + ':1313/livereload.js?mindelay=10"></' 
+        + 'script>')</script></body> 
+</html>
+```
+
+When you use `--watch`, the Live Reload script is added by Hugo. Look for live reload in the documentation to see what it does and how to disable it.
+
+### Build a "Dynamic" Home Page
+
+"Dynamic home page?" Hugo's a static web site generator, so this seems an odd thing to say. I mean let's have the home page automatically reflect the content in the site every time Hugo builds it. We'll use iteration in the template to do that.
+
+#### Create New Posts
+
+Now that we have the home page generating static content, let's add some content to the site. We'll display these posts as a list on the home page and on their own page, too.
+
+Hugo has a command to generate a skeleton post, just like it does for sites and themes.
+
+```
+$ hugo --verbose new post/first.md
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 attempting to create  post/first.md of post
+INFO: 2014/09/29 curpath: /Users/quoha/Sites/zafta/themes/zafta/archetypes/default.md
+ERROR: 2014/09/29 Unable to Cast <nil> to map[string]interface{}
+
+$ 
+```
+
+That wasn't very nice, was it?
+
+The "new" command uses an archetype to create the post file. Hugo created an empty default archetype file, but that causes an error when there's a theme. For me, the workaround was to create an archetypes file specifically for the post type.
+
+```
+$ vi themes/zafta/archetypes/post.md
++++
+Description = ""
+Tags = []
+Categories = []
++++
+:wq
+
+$ find themes/zafta/archetypes -type f | xargs ls -l
+-rw-r--r--  1 quoha  staff   0 Sep 29 21:53 themes/zafta/archetypes/default.md
+-rw-r--r--  1 quoha  staff  51 Sep 29 21:54 themes/zafta/archetypes/post.md
+
+$ hugo --verbose new post/first.md
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 attempting to create  post/first.md of post
+INFO: 2014/09/29 curpath: /Users/quoha/Sites/zafta/themes/zafta/archetypes/post.md
+INFO: 2014/09/29 creating /Users/quoha/Sites/zafta/content/post/first.md
+/Users/quoha/Sites/zafta/content/post/first.md created
+
+$ hugo --verbose new post/second.md
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 attempting to create  post/second.md of post
+INFO: 2014/09/29 curpath: /Users/quoha/Sites/zafta/themes/zafta/archetypes/post.md
+INFO: 2014/09/29 creating /Users/quoha/Sites/zafta/content/post/second.md
+/Users/quoha/Sites/zafta/content/post/second.md created
+
+$ ls -l content/post
+total 16
+-rw-r--r--  1 quoha  staff  104 Sep 29 21:54 first.md
+-rw-r--r--  1 quoha  staff  105 Sep 29 21:57 second.md
+
+$ cat content/post/first.md 
++++
+Categories = []
+Description = ""
+Tags = []
+date = "2014-09-29T21:54:53-05:00"
+title = "first"
+
++++
+my first post
+
+$ cat content/post/second.md 
++++
+Categories = []
+Description = ""
+Tags = []
+date = "2014-09-29T21:57:09-05:00"
+title = "second"
+
++++
+my second post
+
+$ 
+```
+
+Build the web site and then verify the results.
+
+```
+$ rm -rf public
+$ hugo --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 found taxonomies: map[string]string{"category":"categories", "tag":"tags"}
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content 
+0 future content 
+2 pages created 
+0 tags created
+0 categories created
+in 4 ms
+$
+```
+
+The output says that it created 2 pages. Those are our new posts:
+
+```
+$ find public -type f -name '*.html' | xargs ls -l
+-rw-r--r--  1 quoha  staff  78 Sep 29 22:13 public/index.html
+-rw-r--r--  1 quoha  staff   0 Sep 29 22:13 public/post/first/index.html
+-rw-r--r--  1 quoha  staff   0 Sep 29 22:13 public/post/index.html
+-rw-r--r--  1 quoha  staff   0 Sep 29 22:13 public/post/second/index.html
+$
+```
+
+The new files are empty because because the templates used to generate the content are empty. The homepage doesn't show the new content, either. We have to update the templates to add the posts.
+
+### List and Single Templates
+
+In Hugo, we have three major kinds of templates. There's the home page template that we updated previously. It is used only by the home page. We also have "single" templates which are used to generate output for a single content file. We also have "list" templates that are used to group multiple pieces of content before generating output.
+
+Generally speaking, list templates are named "list.html" and single templates are named "single.html."
+
+There are three other types of templates: partials, content views, and terms. We will not go into much detail on these.
+
+### Add Content to the Homepage
+
+The home page will contain a list of posts. Let's update its template to add the posts that we just created. The logic in the template will run every time we build the site.
+
+```
+$ vi themes/zafta/layouts/index.html 
+<!DOCTYPE html>
+<html>
+<body>
+  {{ range first 10 .Data.Pages }}
+    <h1>{{ .Title }}</h1>
+  {{ end }}
+</body>
+</html>
+:wq
+
+$
+```
+
+Hugo uses the Go template engine. That engine scans the template files for commands which are enclosed between "{{" and "}}". In our template, the commands are:
+
+1. range
+2. .Title
+3. end
+
+The "range" command is an iterator. We're going to use it to go through the first ten pages. Every HTML file that Hugo creates is treated as a page, so looping through the list of pages will look at every file that will be created.
+
+The ".Title" command prints the value of the "title" variable. Hugo pulls it from the front matter in the Markdown file.
+
+The "end" command signals the end of the range iterator. The engine loops back to the top of the iteration when it finds "end." Everything between the "range" and "end" is evaluated every time the engine goes through the iteration. In this file, that would cause the title from the first ten pages to be output as heading level one.
+
+It's helpful to remember that some variables, like .Data, are created before any output files. Hugo loads every content file into the variable and then gives the template a chance to process before creating the HTML files.
+
+Build the web site and then verify the results.
+
+```
+$ rm -rf public
+$ hugo --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 found taxonomies: map[string]string{"tag":"tags", "category":"categories"}
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content 
+0 future content 
+2 pages created 
+0 tags created
+0 categories created
+in 4 ms
+$ find public -type f -name '*.html' | xargs ls -l 
+-rw-r--r--  1 quoha  staff  94 Sep 29 22:23 public/index.html
+-rw-r--r--  1 quoha  staff   0 Sep 29 22:23 public/post/first/index.html
+-rw-r--r--  1 quoha  staff   0 Sep 29 22:23 public/post/index.html
+-rw-r--r--  1 quoha  staff   0 Sep 29 22:23 public/post/second/index.html
+$ cat public/index.html 
+<!DOCTYPE html>
+<html>
+<body>
   
-
-  <details class="details-reset details-overlay details-overlay-dark">
-    <summary data-hotkey="l" aria-label="Jump to line"></summary>
-    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast linejump" aria-label="Jump to line">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form Box-body d-flex" action="" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
-        <input class="form-control flex-auto mr-3 linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
-        <button type="submit" class="btn" data-close-dialog>Go</button>
-</form>    </details-dialog>
-  </details>
-
-
-
-  </div>
-</div>
-
-    </main>
-  </div>
+    <h1>second</h1>
   
+    <h1>first</h1>
+  
+</body>
+</html>
+$
+```
 
-  </div>
+Congratulations, the home page shows the title of the two posts. The posts themselves are still empty, but let's take a moment to appreciate what we've done. Your template now generates output dynamically. Believe it or not, by inserting the range command inside of those curly braces, you've learned everything you need to know to build a theme. All that's really left is understanding which template will be used to generate each content file and becoming familiar with the commands for the template engine.
 
-        
-<div class="footer container-lg width-full p-responsive" role="contentinfo">
-  <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
-    <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-      <li class="mr-3 mr-lg-0">&copy; 2020 GitHub, Inc.</li>
-        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://githubstatus.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
-        <li><a data-ga-click="Footer, go to help, text:help" href="https://help.github.com">Help</a></li>
-    </ul>
+And, if that were entirely true, this tutorial would be much shorter. There are a few things to know that will make creating a new template much easier. Don't worry, though, that's all to come.
 
-    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mx-lg-4" href="https://github.com">
-      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
-</a>
-   <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-ga-click="Footer, go to Pricing, text:Pricing">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
-        <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+### Add Content to the Posts
 
-    </ul>
-  </div>
-  <div class="d-flex flex-justify-center pb-6">
-    <span class="f6 text-gray-light"></span>
-  </div>
-</div>
+We're working with posts, which are in the content/post/ directory. That means that their section is "post" (and if we don't do something weird, their type is also "post").
 
+Hugo uses the section and type to find the template file for every piece of content. Hugo will first look for a template file that matches the section or type name. If it can't find one, then it will look in the _default/ directory. There are some twists that we'll cover when we get to categories and tags, but for now we can assume that Hugo will try post/single.html, then _default/single.html.
 
+Now that we know the search rule, let's see what we actually have available:
 
-  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
-    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
-    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
-      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
-    </button>
-    You can’t perform that action at this time.
-  </div>
+```
+$ find themes/zafta -name single.html | xargs ls -l
+-rw-r--r--  1 quoha  staff  132 Sep 29 17:31 themes/zafta/layouts/_default/single.html
+```
 
+We could create a new template, post/single.html, or change the default. Since we don't know of any other content types, let's start with updating the default.
 
-    
-    <script crossorigin="anonymous" integrity="sha512-/VSJJF96vCzSgC6y09Z4FqzjjuXRWOKIq2twF0Nb5/v8xy4qzngnH6Au6TFwbmNN/lborYJsojEpgIbYjoGvHQ==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-fd548924.js"></script>
-    
-    <script crossorigin="anonymous" async="async" integrity="sha512-WMSWaXhNNnaVPtCcW8SyVCIa5WUmicRbWg6LJCKzvv1e9r3OklcnHu1pozMJMUR6mSr8UJqTBMitvI9YDQKX3Q==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-58c49669.js"></script>
-    
-    
-    
-  <div class="js-stale-session-flash flash flash-warn flash-banner" hidden
-    >
-    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
-    <span class="js-stale-session-flash-signed-in" hidden>You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
-    <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
-  </div>
-  <template id="site-details-dialog">
-  <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark hx_rsm" open>
-    <summary role="button" aria-label="Close dialog"></summary>
-    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
-      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
-        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
-      </button>
-      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
-    </details-dialog>
-  </details>
-</template>
+Remember, any content that we haven't created a template for will end up using this template. That can be good or bad. Bad because I know that we're going to be adding different types of content and we're going to end up undoing some of the changes we've made. It's good because we'll be able to see immediate results. It's also good to start here because we can start to build the basic layout for the site. As we add more content types, we'll refactor this file and move logic around. Hugo makes that fairly painless, so we'll accept the cost and proceed.
 
-  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
-  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
-  </div>
-</div>
+Please see the Hugo documentation on template rendering for all the details on determining which template to use. And, as the docs mention, if you're building a single page application (SPA) web site, you can delete all of the other templates and work with just the default single page. That's a refreshing amount of joy right there.
 
-  <div aria-live="polite" class="js-global-screen-reader-notice sr-only"></div>
+#### Update the Template File
 
-  </body>
+```
+$ vi themes/zafta/layouts/_default/single.html 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ .Title }}</title>
+</head>
+<body>
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+</body>
+</html>
+:wq
+
+$
+```
+
+Build the web site and verify the results.
+
+```
+$ rm -rf public
+$ hugo --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 found taxonomies: map[string]string{"tag":"tags", "category":"categories"}
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content 
+0 future content 
+2 pages created 
+0 tags created
+0 categories created
+in 4 ms
+
+$ find public -type f -name '*.html' | xargs ls -l
+-rw-r--r--  1 quoha  staff   94 Sep 29 22:40 public/index.html
+-rw-r--r--  1 quoha  staff  125 Sep 29 22:40 public/post/first/index.html
+-rw-r--r--  1 quoha  staff    0 Sep 29 22:40 public/post/index.html
+-rw-r--r--  1 quoha  staff  128 Sep 29 22:40 public/post/second/index.html
+
+$ cat public/post/first/index.html 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>first</title>
+</head>
+<body>
+  <h1>first</h1>
+  <p>my first post</p>
+
+</body>
 </html>
 
+$ cat public/post/second/index.html 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>second</title>
+</head>
+<body>
+  <h1>second</h1>
+  <p>my second post</p>
+
+</body>
+</html>
+$
+```
+
+Notice that the posts now have content. You can go to localhost:1313/post/first to verify.
+
+### Linking to Content
+
+The posts are on the home page. Let's add a link from there to the post. Since this is the home page, we'll update its template.
+
+```
+$ vi themes/zafta/layouts/index.html
+<!DOCTYPE html>
+<html>
+<body>
+  {{ range first 10 .Data.Pages }}
+    <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+  {{ end }}
+</body>
+</html>
+```
+
+Build the web site and verify the results.
+
+```
+$ rm -rf public
+$ hugo --verbose
+INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
+INFO: 2014/09/29 found taxonomies: map[string]string{"tag":"tags", "category":"categories"}
+WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
+0 draft content 
+0 future content 
+2 pages created 
+0 tags created
+0 categories created
+in 4 ms
+
+$ find public -type f -name '*.html' | xargs ls -l
+-rw-r--r--  1 quoha  staff  149 Sep 29 22:44 public/index.html
+-rw-r--r--  1 quoha  staff  125 Sep 29 22:44 public/post/first/index.html
+-rw-r--r--  1 quoha  staff    0 Sep 29 22:44 public/post/index.html
+-rw-r--r--  1 quoha  staff  128 Sep 29 22:44 public/post/second/index.html
+
+$ cat public/index.html 
+<!DOCTYPE html>
+<html>
+<body>
+  
+    <h1><a href="/post/second/">second</a></h1>
+  
+    <h1><a href="/post/first/">first</a></h1>
+  
+</body>
+</html>
+
+$
+```
+
+### Create a Post Listing
+
+We have the posts displaying on the home page and on their own page. We also have a file public/post/index.html that is empty. Let's make it show a list of all posts (not just the first ten).
+
+We need to decide which template to update. This will be a listing, so it should be a list template. Let's take a quick look and see which list templates are available.
+
+```
+$ find themes/zafta -name list.html | xargs ls -l
+-rw-r--r--  1 quoha  staff  0 Sep 29 17:31 themes/zafta/layouts/_default/list.html
+```
+
+As with the single post, we have to decide to update _default/list.html or create post/list.html. We still don't have multiple content types, so let's stay consistent and update the default list template.
+
+## Creating Top Level Pages
+
+Let's add an "about" page and display it at the top level (as opposed to a sub-level like we did with posts).
+
+The default in Hugo is to use the directory structure of the content/ directory to guide the location of the generated html in the public/ directory. Let's verify that by creating an "about" page at the top level:
+
+```
+$ vi content/about.md 
++++
+title = "about"
+description = "about this site"
+date = "2014-09-27"
+slug = "about time"
++++
+
+## about us
+
+i'm speechless
+:wq
+```
+
+Generate the web site and verify the results.
+
+```
+$ find public -name '*.html' | xargs ls -l
+-rw-rw-r--  1 mdhender  staff   334 Sep 27 15:08 public/about-time/index.html
+-rw-rw-r--  1 mdhender  staff   527 Sep 27 15:08 public/index.html
+-rw-rw-r--  1 mdhender  staff   358 Sep 27 15:08 public/post/first-post/index.html
+-rw-rw-r--  1 mdhender  staff     0 Sep 27 15:08 public/post/index.html
+-rw-rw-r--  1 mdhender  staff   342 Sep 27 15:08 public/post/second-post/index.html
+```
+
+Notice that the page wasn't created at the top level. It was created in a sub-directory named 'about-time/'. That name came from our slug. Hugo will use the slug to name the generated content. It's a reasonable default, by the way, but we can learn a few things by fighting it for this file.
+
+One other thing. Take a look at the home page.
+
+```
+$ cat public/index.html
+<!DOCTYPE html>
+<html>
+<body>
+    <h1><a href="http://localhost:1313/post/theme/">creating a new theme</a></h1>
+    <h1><a href="http://localhost:1313/about-time/">about</a></h1>
+    <h1><a href="http://localhost:1313/post/second-post/">second</a></h1>
+    <h1><a href="http://localhost:1313/post/first-post/">first</a></h1>
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
+</html>
+```
+
+Notice that the "about" link is listed with the posts? That's not desirable, so let's change that first.
+
+```
+$ vi themes/zafta/layouts/index.html
+<!DOCTYPE html>
+<html>
+<body>
+  <h1>posts</h1>
+  {{ range first 10 .Data.Pages }}
+    {{ if eq .Type "post"}}
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    {{ end }}
+  {{ end }}
+
+  <h1>pages</h1>
+  {{ range .Data.Pages }}
+    {{ if eq .Type "page" }}
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    {{ end }}
+  {{ end }}
+</body>
+</html>
+:wq
+```
+
+Generate the web site and verify the results. The home page has two sections, posts and pages, and each section has the right set of headings and links in it.
+
+But, that about page still renders to about-time/index.html.
+
+```
+$ find public -name '*.html' | xargs ls -l
+-rw-rw-r--  1 mdhender  staff    334 Sep 27 15:33 public/about-time/index.html
+-rw-rw-r--  1 mdhender  staff    645 Sep 27 15:33 public/index.html
+-rw-rw-r--  1 mdhender  staff    358 Sep 27 15:33 public/post/first-post/index.html
+-rw-rw-r--  1 mdhender  staff      0 Sep 27 15:33 public/post/index.html
+-rw-rw-r--  1 mdhender  staff    342 Sep 27 15:33 public/post/second-post/index.html
+```
+
+Knowing that hugo is using the slug to generate the file name, the simplest solution is to change the slug. Let's do it the hard way and change the permalink in the configuration file.
+
+```
+$ vi config.toml
+[permalinks]
+	page = "/:title/"
+	about = "/:filename/"
+```
+
+Generate the web site and verify that this didn't work. Hugo lets "slug" or "URL" override the permalinks setting in the configuration file. Go ahead and comment out the slug in content/about.md, then generate the web site to get it to be created in the right place.
+
+## Sharing Templates
+
+If you've been following along, you probably noticed that posts have titles in the browser and the home page doesn't. That's because we didn't put the title in the home page's template (layouts/index.html). That's an easy thing to do, but let's look at a different option.
+
+We can put the common bits into a shared template that's stored in the themes/zafta/layouts/partials/ directory.
+
+### Create the Header and Footer Partials
+
+In Hugo, a partial is a sugar-coated template. Normally a template reference has a path specified. Partials are different. Hugo searches for them along a TODO defined search path. This makes it easier for end-users to override the theme's presentation.
+
+```
+$ vi themes/zafta/layouts/partials/header.html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{{ .Title }}</title>
+</head>
+<body>
+:wq
+
+$ vi themes/zafta/layouts/partials/footer.html
+</body>
+</html>
+:wq
+```
+
+### Update the Home Page Template to Use the Partials
+
+The most noticeable difference between a template call and a partials call is the lack of path:
+
+```
+{{ template "theme/partials/header.html" . }}
+```
+versus
+```
+{{ partial "header.html" . }}
+```
+Both pass in the context.
+
+Let's change the home page template to use these new partials.
+
+```
+$ vi themes/zafta/layouts/index.html
+{{ partial "header.html" . }}
+
+  <h1>posts</h1>
+  {{ range first 10 .Data.Pages }}
+    {{ if eq .Type "post"}}
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    {{ end }}
+  {{ end }}
+
+  <h1>pages</h1>
+  {{ range .Data.Pages }}
+    {{ if or (eq .Type "page") (eq .Type "about") }}
+      <h2><a href="{{ .Permalink }}">{{ .Type }} - {{ .Title }} - {{ .RelPermalink }}</a></h2>
+    {{ end }}
+  {{ end }}
+
+{{ partial "footer.html" . }}
+:wq
+```
+
+Generate the web site and verify the results. The title on the home page is now "your title here", which comes from the "title" variable in the config.toml file.
+
+### Update the Default Single Template to Use the Partials
+
+```
+$ vi themes/zafta/layouts/_default/single.html
+{{ partial "header.html" . }}
+
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+{{ partial "footer.html" . }}
+:wq
+```
+
+Generate the web site and verify the results. The title on the posts and the about page should both reflect the value in the markdown file.
+
+## Add “Date Published” to Posts
+
+It's common to have posts display the date that they were written or published, so let's add that. The front matter of our posts has a variable named "date." It's usually the date the content was created, but let's pretend that's the value we want to display.
+
+### Add “Date Published” to the Template
+
+We'll start by updating the template used to render the posts. The template code will look like:
+
+```
+{{ .Date.Format "Mon, Jan 2, 2006" }}
+```
+
+Posts use the default single template, so we'll change that file.
+
+```
+$ vi themes/zafta/layouts/_default/single.html
+{{ partial "header.html" . }}
+
+  <h1>{{ .Title }}</h1>
+  <h2>{{ .Date.Format "Mon, Jan 2, 2006" }}</h2>
+  {{ .Content }}
+
+{{ partial "footer.html" . }}
+:wq
+```
+
+Generate the web site and verify the results. The posts now have the date displayed in them. There's a problem, though. The "about" page also has the date displayed.
+
+As usual, there are a couple of ways to make the date display only on posts. We could do an "if" statement like we did on the home page. Another way would be to create a separate template for posts.
+
+The "if" solution works for sites that have just a couple of content types. It aligns with the principle of "code for today," too.
+
+Let's assume, though, that we've made our site so complex that we feel we have to create a new template type. In Hugo-speak, we're going to create a section template.
+
+Let's restore the default single template before we forget.
+
+```
+$ mkdir themes/zafta/layouts/post
+$ vi themes/zafta/layouts/_default/single.html
+{{ partial "header.html" . }}
+
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+{{ partial "footer.html" . }}
+:wq
+```
+
+Now we'll update the post's version of the single template. If you remember Hugo's rules, the template engine will use this version over the default.
+
+```
+$ vi themes/zafta/layouts/post/single.html
+{{ partial "header.html" . }}
+
+  <h1>{{ .Title }}</h1>
+  <h2>{{ .Date.Format "Mon, Jan 2, 2006" }}</h2>
+  {{ .Content }}
+
+{{ partial "footer.html" . }}
+:wq
+
+```
+
+Note that we removed the date logic from the default template and put it in the post template. Generate the web site and verify the results. Posts have dates and the about page doesn't.
+
+### Don't Repeat Yourself
+
+DRY is a good design goal and Hugo does a great job supporting it. Part of the art of a good template is knowing when to add a new template and when to update an existing one. While you're figuring that out, accept that you'll be doing some refactoring. Hugo makes that easy and fast, so it's okay to delay splitting up a template.
