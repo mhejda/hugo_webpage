@@ -57,7 +57,10 @@ disqusShortname = "yourdiscussshortname"
 [params]
     since = 2020
     author = "Matěj Hejda"               # Author's name
-    subtitle = "Personal webpage slash blog slash data stash"       # Subtitle
+    subtitle = "Doctoral candidate in physics @ University of Strathclyde, photonics for neuromorphic systems"
+    subtitle_additional = "Science / tech & AI / electronic music / photography"
+    description = "Made in Czechia, living in Scotland"
+    socialShare = true
     cdn_url = ""           # Base CDN URL
     home_mode = "other" # post or other
 
