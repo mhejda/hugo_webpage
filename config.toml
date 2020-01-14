@@ -43,17 +43,22 @@ disqusShortname = "yourdiscussshortname"
 
 [menu]
   [[menu.main]]
-    name = "Blog"
+    name = "blog"
     url = "/posts/"
     weight = 1
 
   [[menu.main]]
-    name = "Categories"
+    name = "categories"
     url = "/categories/"
+    weight = 2
+    
+  [[menu.main]]
+    name = "notes"
+    url = "/notes"
     weight = 3
 
   [[menu.main]]
-    name = "About"
+    name = "about"
     url = "/about"
     weight = 4
 
@@ -61,8 +66,8 @@ disqusShortname = "yourdiscussshortname"
     since = 2020
     author = "Matěj Hejda"               # Author's name
     subtitle_main = "Matěj Hejda"
-    subtitle_minor1 = "doctoral candidate at University of Strathclyde, Glasgow | photonics for neuromorphics systems"
-    subtitle_minor2 = "science | tech & AI | travelling | photography"
+    subtitle_minor1 = "doctoral candidate at University of Strathclyde, Glasgow | nanoscale photonics for neuromorphics systems"
+    subtitle_minor2 = "science | tech & AI | travelling | photography | electronic music "
     description = "Made in Czechia, living in Scotland"
     socialShare = true
     cdn_url = ""           # Base CDN URL
@@ -85,21 +90,31 @@ disqusShortname = "yourdiscussshortname"
     email = "hejdis@gmail.com"   #uncomment and insert your email address to use gravatar
 
 [params.social]
+    Facebook = "thisismatej"
+    Twitter = "thisismatej"
     #GitHub = "xxxx"
-    #Linkedin = "xxxx"
-    #Twitter = "xxxx"
-    #Instagram = "xxxx"
+    Linkedin = "matejhejda"
+    
+    Instagram = "thisismatej"
     #Email   = "xxxx"
-    #Facebook = "xxxx"
-    #Telegram = "xxxx"
-    #Medium = "xxxx"
-    #Gitlab = "xxxx"
+    
+    Telegram = "matej_h"
+    Keybase = "thisismatej"
+    Soundcloud = "noyire"
+    #Spotify = "xxxx"
+    Bandcamp = "noyire"
+    Goodreads = "thisismatej"
+    
+    Googlescholar = "UpnbK3UAAAAJ"
+    #Researchgate = "xxxx"
+           
     #Youtubelegacy = "xxxx"
     #Youtubecustom = "xxxx"
     #Youtubechannel = "xxxx"
     #Tumblr ="xxxx"
     #Quora = "xxxx"
-    #Keybase = "xxxx"
+    #Medium = "xxxx"
+    #Gitlab = "xxxx"    
     #Pinterest = "xxxx"
     #Reddit = "xxxx"
     #Codepen = "xxxx"
@@ -111,13 +126,11 @@ disqusShortname = "yourdiscussshortname"
     #Flickr = "xxxx"
     #Xing = "xxxx"
     #Snapchat = "xxxx"
-    #Soundcloud = "xxxx"
-    #Spotify = "xxxx"
-    #Bandcamp = "xxxx"
+
     #Paypal = "xxxx"
     #Fivehundredpx = "xxxx"
     #Mix = "xxxx"
-    #Goodreads = "xxxx"
+
     #Lastfm = "xxxx"
     #Foursquare = "xxxx"
     #Hackernews = "xxxx"
@@ -138,23 +151,22 @@ disqusShortname = "yourdiscussshortname"
     #Dribble = "xxxx"
     #Wordpress = "xxxx"
     #Vine = "xxxx"
-    #Googlescholar = "xxxx"
-    #Researchgate = "xxxx"
+
     #Mastodon = "xxxx"
     #Thingiverse = "xxxx"
 
 [params.share]
-#Twitter = true
-#Facebook = true
-#Reddit = true
-#Linkedin = true
-#Pinterest = true
-#HackerNews = true
-#Mix = true
-#Tumblr = true
-#VKontakte = true
-#Douban = true
-#Weibo = true
+Facebook = true
+Twitter = true
+Linkedin = true
+Googlescholar = true
+Researchgate  = true
+Goodreads = true
+Bandcamp = true
+Soundcloud = true
+Keybase = true
+Telegram = true
+Instagram = true
 
 # Used only for Seo schema
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
