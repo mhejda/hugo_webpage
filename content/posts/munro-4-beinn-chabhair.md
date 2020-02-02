@@ -2,13 +2,12 @@
 categories = ["Scotland", "Traveling"]
 date = 2020-02-02T21:00:00Z
 description = "Winter hillwalk to Beinn Chabhair"
-series = []
+series = ["general"]
 slug = "beinn-chabhair"
 tags = ["munros"]
 title = "Munro #4: Beinn Chabhair"
 type = ["posts"]
-[author]
-name = "Matěj Hejda"
+author = "Matěj Hejda"
 
 +++
 _Welcome to a very first post on this blog! This was posted on the symbolic day of 02/02/2020 - you can't represent the date using only two numerals very often, and as such, this felt like a perfect starting date for the webpage!_
