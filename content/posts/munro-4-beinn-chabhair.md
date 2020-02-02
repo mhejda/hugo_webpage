@@ -2,7 +2,6 @@
 categories = ["Scotland", "Traveling"]
 date = 2020-02-02T21:00:00Z
 description = "Winter hillwalk to Beinn Chabhair"
-draft = true
 series = []
 slug = "beinn-chabhair"
 tags = ["munros"]
