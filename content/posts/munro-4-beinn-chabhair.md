@@ -1,9 +1,10 @@
 +++
-categories = ["Traveling"]
+categories = ["Scotland", "Traveling"]
 date = 2020-02-02T21:00:00Z
-description = "First blog post"
+description = "Winter hillwalk to Beinn Chabhair"
 draft = true
 series = []
+slug = "beinn-chabhair"
 tags = ["munros"]
 title = "Munro #4: Beinn Chabhair"
 type = ["posts"]
