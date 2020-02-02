@@ -12,11 +12,17 @@ type = ["posts"]
 name = "Matěj Hejda"
 
 +++
-This is the very first post on this blog!
+_Welcome to a very first post on this blog! This was posted on the symbolic day of 02/02/2020 - you can't represent the date using only two numerals very often, and as such, this felt like a perfect starting date for the blog!_
 
-Posted on the very symbolic day of 02/02/2020 - these events (when you can represent the dates using only two numerals) don't really happen that often!
+### Munro Bagging log, #4:
+
+## Beinh Chabhair (from Inverarnan)
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1580666969/images/photo_2020-02-02_18-06-30_jfbwy1.jpg)
+
+This was the very first Munro-targeting hillwalk of 2020 and the first walk we went for together with my flatmate Gergely. Unfortunately, as I am still getting all my mountain gear together, we only had one headlamp (mine is currently en-route from AliExpress). Nonetheless, we did the math (with estimates from the Walkinghighlands page) and decided that we should definitely be able to make it before it gets dark. Also, we expected some snow, but not much of it... 
+
+With the time estimate, we were completely correct. With the snow? Not so much. 😁 Anyhow,our day started by hopping on an early morning Citylink coach from Glasgow Buchanan to Fort Williams, with destination Inverarnan. The clouds were already starting to clear up, and one could get amazing views over morning Loch Lomond and Ben Lomond. Everything was shaping up for a cracking day up in the hills. 👌
 
 ![](https://res.cloudinary.com/mhejda/image/upload/v1580665840/images/2020-01-18_10-35_0007_tpkly3.jpg)
 
