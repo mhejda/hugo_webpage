@@ -16,6 +16,8 @@ This is the very first post on this blog!
 
 Posted on the very symbolic day of 02/02/2020 - these events (when you can represent the dates using only two numerals) don't really happen that often!
 
+![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1580666897/images/photo_2020-02-02_18-06-30_u2plw9.jpg)
+
 ![](https://res.cloudinary.com/mhejda/image/upload/v1580665840/images/2020-01-18_10-35_0007_tpkly3.jpg)
 
 ![](https://res.cloudinary.com/mhejda/image/upload/v1580665991/images/2020-01-18_13-31_0017_raitoa.jpg)
