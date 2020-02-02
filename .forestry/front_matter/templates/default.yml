@@ -27,18 +27,16 @@ fields:
 - type: list
   name: series
   label: series
-- type: field_group
-  name: author
-  label: author
-  fields:
-  - type: text
-    name: name
-    label: name
 - name: slug
   type: text
   config:
     required: false
   label: Slug
   description: 'URL ending:'
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
 pages:
 - content/posts/munro-4-beinn-chabhair.md
