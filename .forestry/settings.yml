@@ -15,9 +15,9 @@ sections:
   create: all
   match: "**/*"
 upload_dir: images
-public_path: https://res.cloudinary.com/mhejda/image/upload
-front_matter_path: ''
-use_front_matter_path: false
+public_path: https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto
+front_matter_path: https://res.cloudinary.com/mhejda/image/upload
+use_front_matter_path: true
 file_template: ":year:-:month:-:day:_:filename:"
 build:
   preview_env:
