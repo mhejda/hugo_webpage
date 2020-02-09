@@ -10,7 +10,9 @@ name = "Hugo Authors"
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,r_140,w_280/v1581258985/images/2015-01-01_00-00_0001-8_gffcsp.png)
 
-My name is Matěj Hejda. Originally from Czech Republic, I'm currently living in Scotland, pursuing a PhD in Physics at [Institute of Photonics](https://www.strath.ac.uk/science/physics/instituteofphotonics/ "Institute of Photonics"), University of Strathclyde, Glasgow. In my research, my aim is to demonstrate brain-inspired (also called neuromorphic) functionality in photonic and nanophotonic devices, with the goal of creating fundamental building blocks for light-powered on-chip artifical neural networks. _Or, as my family tends to say: "Matěj makes optical brains!"._ My dream would be to push the technology all the way from the lab into a commercially viable product.
+My name is Matěj Hejda. Originally from Czech Republic, I'm currently living in Scotland, pursuing a PhD in Physics at [Institute of Photonics](https://www.strath.ac.uk/science/physics/instituteofphotonics/ "Institute of Photonics"), University of Strathclyde, Glasgow. 
+
+In my research, my aim is to demonstrate brain-inspired (also called neuromorphic) functionality in photonic and nanophotonic devices, with the goal of creating fundamental building blocks for light-powered on-chip artifical neural networks. _Or, as my family tends to say: "Matěj makes optical brains!"._ My dream would be to push the technology all the way from the lab into a commercially viable product.
 
 ***
 
@@ -20,4 +22,4 @@ My research builds on foundations from physics, photonics, nanotechnology and co
 
 I also deeply enjoy electronic music of various kinds (I also [produce my own](https://soundcloud.com/noyire) and occasionaly DJ). During holidays and weekends, there's high chance you'll find me discovering and taking photos in some remote places of Scotland (or travelling in general), coding in Python or reading non-fiction books.
 
-If you want to ask anything, have a collaborative idea or just feel like saying Hi, please don't hesitate to contact me! :)
+_If you want to ask anything, have a collaborative idea or just feel like saying Hi, please don't hesitate to contact me! :)_
