@@ -7,7 +7,7 @@ draft = true
 series = []
 slug = "glasgow-murals"
 tags = []
-title = "The murals of Glasgow"
+title = "The Murals of Glasgow (ultimate list)"
 type = []
 
 +++
@@ -116,13 +116,16 @@ Pictures taken: 22/10/2019
 Murals to visit or take pictures of (in no particular order):
 
 * Are Ye Dancin by Conzo Throb, Ciarán Glöbel
+* Kids with stars, near DRAM in West End
 * As Good as Gold, on Buchanan Street, down the lane beside Princes Square.
+* Five Faces by Smug, on Broomielaw beneath railbridge
+* Glasgow’s Tiger, Clyde Walkway just below the Broomielaw.
 * Today We’re In Love Aren't We? by Cobolt Collective, Brown Street
-* Wind Power
+* Wind Power by Rogue-Oner and Art Pistol, Mitchell Street
 * The Lost Giant by Stormie Mills, Sauchiehall Lane
 * Charing Cross Birds by Rogue-One,
 * _A View of the Clyde by Rogue-One_
-* Big Birds by Rogue-One,
+* Big Birds by Rogue-Oner and Art Pistol, corner of Howard Street and Dunlop Street
 * Big Yin by Rachel Maclean, Gallowgate
 * Argyle Street Cafe
 * The Swimmer by Smug, Kingston Bridge
