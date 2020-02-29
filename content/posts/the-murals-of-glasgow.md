@@ -51,7 +51,7 @@ _Location:_ Osborne St
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583004204/images/IMG_2350_tg0hop.jpg)
 
-**#08: Mackintosh** (_by Rogue Oner)_ (there are additional wallpaintings around)  
+**#08: Charles Rennie Mackintosh** (_by Rogue Oner)_  
 _Location:_ near Clutha Bar, Clyde St  
 _Picture taken:_ 22/10/2019
 
@@ -115,6 +115,9 @@ Pictures taken: 22/10/2019
 
 Murals to visit or take pictures of (in no particular order):
 
+* Are Ye Dancin by Conzo Throb, Ciarán Glöbel
+* As Good as Gold, on Buchanan Street, down the lane beside Princes Square.
+* Today We’re In Love Aren't We? by Cobolt Collective, Brown Street
 * Wind Power
 * The Lost Giant by Stormie Mills, Sauchiehall Lane
 * Charing Cross Birds by Rogue-One,
@@ -134,3 +137,4 @@ Murals to visit or take pictures of (in no particular order):
 * Badminton by Guido van Helten, Wilson Street
 * Four Seasons
 * The Marionettes by Rogue-One, John Street
+* Sauchiehall Street Kittens
