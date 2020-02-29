@@ -1,7 +1,7 @@
 +++
 author = "Matěj Hejda"
 categories = ["Scotland"]
-date = ""
+date = 2020-02-29T00:00:00Z
 description = ""
 draft = true
 series = []
