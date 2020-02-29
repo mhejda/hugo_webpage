@@ -27,7 +27,7 @@ Seen: 20/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003374/images/IMG_2345_imzum4.jpg)
 
-**#03 and #04: Mixed murals and Wee Pirates**  
+**#03 and #04: Mixed murals** (unknown author) **and Wee Pirates** (_by Rogue-One)_  
 Location: Ross St  
 Seen: 20/10/2019  
   
@@ -53,4 +53,32 @@ Picture taken: 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583004350/images/IMG_2352_g3emqi.jpg)
 
-09: 
+\#09: **Dr Connolly, I Presume?** (by Rogue-One)  
+Location: Dixon St  
+Picture taken: 22/10/2019
+
+![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583004632/images/IMG_2353_ur14z1.jpg)
+
+\#10: **Honey, I Think I Shrunk the Kids** _(by Smug)  
+_Location: Mitchell St  
+Picture taken: 22/10/2019  
+  
+![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583004689/images/IMG_2354_c1ifsb.jpg)
+
+\#11: **The World’s Most Economical Taxi** _(by Rogue-One)  
+_Location: Mitchell St  
+Picture taken: 22/10/2019
+
+![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583004864/images/IMG_2355_mx2af3.jpg)
+
+\#12: **The Gallery** _(by Smug)_  
+Location: junction of Argyle St and York St  
+Picture taken: 22/10/2019
+
+![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005164/images/IMG_2356_joqlnm.jpg)
+
+\#13: University of Strathclyde murals  
+Location: George Street, University of Strathclyde campus  
+Picture taken: 22/10/2019
+
+![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005265/images/IMG_2360_lmumhe.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005284/images/IMG_2362_w2pwfs.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005301/images/IMG_2363_mav0j9.jpg)
