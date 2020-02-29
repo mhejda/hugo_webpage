@@ -83,8 +83,33 @@ Picture taken: 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005265/images/IMG_2360_lmumhe.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005284/images/IMG_2362_w2pwfs.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005301/images/IMG_2363_mav0j9.jpg)
 
-\#12: **Wellpark Brewery wall murals**  
+\#14: **Wellpark Brewery wall murals**  
 Location: Wellpark Brewery, Duke St  
 Pictures taken: 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005382/images/IMG_2364_ha1zhi.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005403/images/IMG_2365_qsznyp.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005431/images/IMG_2366_rsfgy3.jpg)
+
+\#13: 
+
+Murals to visit or take pictures (in no particular order):
+
+* Wind Power
+* The Lost Giant by Stormie Mills, Sauchiehall Lane
+* Charing Cross Birds by Rogue-One,
+* _A View of the Clyde by Rogue-One_
+* Big Birds by Rogue-One,
+* Big Yin by Rachel Maclean, Gallowgate
+* Argyle Street Cafe
+* The Swimmer by Smug, Kingston Bridge
+* Skeletal Street by Smug, Eastvale Street
+* Fellow Glasgow Citizens
+* Saint Mungo
+* Squirrelling Around, by Smug and Spore
+* Charing Croc
+* Puppets by Rogue One, Cowcaddens
+* The Musician by Rogue-One, Sauchiehall Lane
+* SWG3
+* Space Man by Recoat and Ali Wylie, Trongate
+* Badminton by Guido van Helten, Wilson Street
+* Four Seasons
+* The Marionettes by Rogue-One, John Street
