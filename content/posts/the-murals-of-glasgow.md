@@ -77,21 +77,33 @@ Picture taken: 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005164/images/IMG_2356_joqlnm.jpg)
 
-\#13: University of Strathclyde murals  
+**#13: University of Strathclyde murals**  
 Location: George Street, University of Strathclyde campus  
 Picture taken: 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005265/images/IMG_2360_lmumhe.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005284/images/IMG_2362_w2pwfs.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005301/images/IMG_2363_mav0j9.jpg)
 
-\#14: **Wellpark Brewery wall murals**  
+**#14: Woman with child** _(by Smug)_  
+Location: George Street, University of Strathclyde campus  
+Picture taken: 26/8/2019
+
+![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583006451/images/IMG_1667_x81zo9.jpg)
+
+\#15: **Untitled (Saint Mungo)** _by Smug_  
+Location: High Street (view from Rottenrow East bus stop)  
+Picture taken: 4/2/2019
+
+![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583006638/images/IMG_0245_qysqas.jpg)
+
+**#16: Wellpark Brewery wall murals**  
 Location: Wellpark Brewery, Duke St  
 Pictures taken: 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005382/images/IMG_2364_ha1zhi.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005403/images/IMG_2365_qsznyp.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005431/images/IMG_2366_rsfgy3.jpg)
 
-\#13: 
+***
 
-Murals to visit or take pictures (in no particular order):
+Murals to visit or take pictures of (in no particular order):
 
 * Wind Power
 * The Lost Giant by Stormie Mills, Sauchiehall Lane
@@ -103,7 +115,6 @@ Murals to visit or take pictures (in no particular order):
 * The Swimmer by Smug, Kingston Bridge
 * Skeletal Street by Smug, Eastvale Street
 * Fellow Glasgow Citizens
-* Saint Mungo
 * Squirrelling Around, by Smug and Spore
 * Charing Croc
 * Puppets by Rogue One, Cowcaddens
