@@ -3,7 +3,6 @@ author = "Matěj Hejda"
 categories = ["Scotland"]
 date = 2020-02-29T00:00:00Z
 description = ""
-draft = true
 series = []
 slug = "glasgow-murals"
 tags = []
@@ -139,5 +138,6 @@ Murals to visit or take pictures of (in no particular order):
 * Space Man by Recoat and Ali Wylie, Trongate
 * Badminton by Guido van Helten, Wilson Street
 * Four Seasons
+* Girl, near Smiddy Bar, Purdon St
 * The Marionettes by Rogue-One, John Street
 * Sauchiehall Street Kittens
