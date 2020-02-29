@@ -18,14 +18,14 @@ _Note: The numbering of those is arbitrary, and doesn't at the moment constitute
 
 ***
 
-**#01: Girls with bubble blowers** _(by Rogue-One)  
-Location:_ Renfrew St  
+**#01: The girls and the bubbles** _(by Rogue-One)  
+Location:_ Renfrew Lane  
 _Picture taken:_ 27/2/2020
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003079/images/IMG_3354_ynkpia.jpg)
 
-\**#02: Woman in colours  
-\**_Location:_ Barras Art and Design  
+\*_#02: Woman in colours  
+\*Location:_ Barras Art and Design  
 _Picture taken:_ 20/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003374/images/IMG_2345_imzum4.jpg)
@@ -114,6 +114,8 @@ _Pictures taken:_ 22/10/2019
 
 **Listr of murals to visit or take pictures of** (in no particular order):
 
+* Frenchie and bubbles by Rogue-One, Renfrew Lane
+* Girl with butteflies by Rogue-One, Pacitti Gardens
 * Are Ye Dancin by Conzo Throb, Ciarán Glöbel
 * Kids with stars, near DRAM in West End
 * As Good as Gold, on Buchanan Street, down the lane beside Princes Square.
@@ -140,4 +142,4 @@ _Pictures taken:_ 22/10/2019
 * Four Seasons
 * Girl, near Smiddy Bar, Purdon St
 * The Marionettes by Rogue-One, John Street
-* Sauchiehall Street Kittens
+* Sauchiehall Street Kittens by Rogue-One
