@@ -18,45 +18,45 @@ _Note: The numbering of those is arbitrary, and doesn't at the moment constitute
 
 ***
 
-**#01: Girls with bubble blowers** _(by Rogue-Oner)  
+**#01: Girls with bubble blowers** _(by Rogue-One)  
 Location:_ Renfrew St  
 _Picture taken:_ 27/2/2020
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003079/images/IMG_3354_ynkpia.jpg)
 
-**#02: Woman in colours  
-**_Location:_ Barras Art and Design  
+\**#02: Woman in colours  
+\**_Location:_ Barras Art and Design  
 _Picture taken:_ 20/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003374/images/IMG_2345_imzum4.jpg)
 
-**#03 and #04: Mixed murals** (unknown author) **and Wee Pirates** (_by Rogue-Oner)_  
+**#03 and #04: Mixed murals** (unknown author) **and Wee Pirates** (_by Rogue-One)_  
 _Location:_ Ross St  
-_Picture taken:_ 20/10/2019  
-  
+_Picture taken:_ 20/10/2019
+
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003482/images/IMG_2346_oirjme.jpg)
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003626/images/IMG_2347_kdaa5k.jpg)
 
-**#05 and #06: Studies of women in black and white  
-**_Location:_ junction of Saltmarket and Bridgegate; Saint Andrew St  
+\#05 and #06: **Studies of women in black**  
+\**_Location:_ junction of Saltmarket and Bridgegate; Saint Andrew St  
 _Pictures taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003793/images/IMG_2348_hwvrzk.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003803/images/IMG_2349_odui9c.jpg)
 
-**#07: The Big Yin** (Billy Connolly) (_by Rogue-Oner)_   
+**#07: The Big Yin** (Billy Connolly) (_by Rogue-One)_  
 _Location:_ Osborne St  
 _Picture taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583004204/images/IMG_2350_tg0hop.jpg)
 
-**#08: Charles Rennie Mackintosh** (_by Rogue Oner)_  
+**#08: Charles Rennie Mackintosh** (_by Rogue One)_  
 _Location:_ near Clutha Bar, Clyde St  
 _Picture taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583004350/images/IMG_2352_g3emqi.jpg)
 
-**#09: The Clutha Faces** _(by Rogue, EJEK and Art Pistol)  
+**#09: The Clutha Faces** _(by Rogue One, EJEK and Art Pistol)  
 Location:_ Clutha Bar, Clyde St  
 _Picture taken:_ 22/10/2019
 
@@ -70,11 +70,11 @@ _Picture taken:_ 22/10/2019
 
 \#11: **Honey, I Think I Shrunk the Kids** _(by Smug)  
 Location:_ Mitchell St  
-_Picture taken:_ 22/10/2019  
-  
+_Picture taken:_ 22/10/2019
+
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583004689/images/IMG_2354_c1ifsb.jpg)
 
-\#12: **The World’s Most Economical Taxi** _(by Rogue-Oner)  
+\#12: **The World’s Most Economical Taxi** _(by Rogue-One)  
 Location:_ Mitchell St  
 _Picture taken:_ 22/10/2019
 
@@ -92,13 +92,13 @@ _Picture taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005265/images/IMG_2360_lmumhe.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005284/images/IMG_2362_w2pwfs.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005301/images/IMG_2363_mav0j9.jpg)
 
-\#15: **Woman with child** _(by Smug)_  
+\#15: **Teneu and Kentigern** _(by Smug)_  
 _Location:_ George Street, University of Strathclyde campus  
 _Picture taken:_ 26/8/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583006451/images/IMG_1667_x81zo9.jpg)
 
-\#16: **Untitled (Saint Mungo)** _by Smug_  
+\#16: **Untitled (Saint Mungo)** (_by Smug)_  
 _Location:_ High Street (view from Rottenrow East bus stop)  
 _Picture taken:_ 4/2/2019
 
@@ -106,13 +106,13 @@ _Picture taken:_ 4/2/2019
 
 \#17: **Wellpark Brewery wall murals**  
 _Location:_ Wellpark Brewery, Duke St  
-Pictures taken: 22/10/2019
+_Pictures taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005382/images/IMG_2364_ha1zhi.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005403/images/IMG_2365_qsznyp.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005431/images/IMG_2366_rsfgy3.jpg)
 
 ***
 
-Murals to visit or take pictures of (in no particular order):
+**Listr of murals to visit or take pictures of** (in no particular order):
 
 * Are Ye Dancin by Conzo Throb, Ciarán Glöbel
 * Kids with stars, near DRAM in West End
@@ -122,8 +122,8 @@ Murals to visit or take pictures of (in no particular order):
 * Today We’re In Love Aren't We? by Cobolt Collective, Brown Street
 * Wind Power by Rogue-Oner and Art Pistol, Mitchell Street
 * The Lost Giant by Stormie Mills, Sauchiehall Lane
-* Charing Cross Birds by Rogue-One,
-* _A View of the Clyde by Rogue-One_
+* Charing Cross Birds by Rogue-One
+* A View of the Clyde by Rogue-One
 * Big Birds by Rogue-Oner and Art Pistol, corner of Howard Street and Dunlop Street
 * Big Yin by Rachel Maclean, Gallowgate
 * Argyle Street Cafe
