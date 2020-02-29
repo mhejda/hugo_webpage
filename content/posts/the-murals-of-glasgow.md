@@ -10,9 +10,9 @@ title = "The Murals of Glasgow (ultimate list)"
 type = []
 
 +++
-There's couple of things that Glasgow is renowned for. Some of them are positive: it serves as the gateway to the Highlands, has a vibrant, thriving music scene and Glaswegians in general are friendly people... oh, and apparently also is the [the birthplace of tikka masala](https://www.glasgowlive.co.uk/news/history/glasgow-invented-chicken-tikka-masala-12015915). On the other hand, it also has quite a reputation for being rough and dangerous, but from my own personal experience, that's almost completely rooted in the past, and today's Glasgow is definitely as safe as any other big city in Europe (perhaps except for some areas further from the centre). Actually, other big UK cities are now trying to learn from Glasgow about [how to tackle knife crime](https://www.thetimes.co.uk/article/what-can-london-learn-from-glasgows-approach-to-beating-knife-crime-9pp6w9q86).
+There's couple of things that Glasgow is renowned for. Some of them are positive: it serves as the gateway to the Highlands, has a vibrant, thriving music scene and Glaswegians in general are very friendly people... oh, and apparently also is the [the birthplace of tikka masala](https://www.glasgowlive.co.uk/news/history/glasgow-invented-chicken-tikka-masala-12015915). On the other hand, it also has quite a reputation for being rough and dangerous, but from my own personal experience, that's almost completely rooted in the past, and today's Glasgow is definitely as safe as any other big city in Europe (perhaps except for few areas further from the centre). Actually, other big UK cities are now trying to learn from Glasgow about [how to tackle knife crime](https://www.thetimes.co.uk/article/what-can-london-learn-from-glasgows-approach-to-beating-knife-crime-9pp6w9q86).
 
-Oh, and then, there are the **murals**. Colourful artistic paintings of various sizes can be found all around Glasgow, and there's even an [official mural trail](https://www.citycentremuraltrail.co.uk/murals/MuralMap) to help you discover them. There's just one small issue with the trail: there's many more murals than included in the trail. After randomly discovering couple of those in unexpected ideas, I came up with the idea to create my own "ultimate" Glasgow mural list, to be updated everytime I find a new one. :)
+Oh, and then, there are the street **murals**. Colourful artistic paintings of various sizes can be found all around Glasgow, and there's even an [official mural trail](https://www.citycentremuraltrail.co.uk/murals/MuralMap) to help you discover them. There's just one small issue with the trail: there's many more murals than included in the trail. After randomly discovering couple of those in unexpected ideas, I came up with the idea to create my own "ultimate" Glasgow mural list, to be updated everytime I find a new one. :)
 
 _Note: The numbering of those is arbitrary, and doesn't at the moment constitute a good order of visiting the murals._
 
@@ -24,8 +24,8 @@ _Picture taken:_ 27/2/2020
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003079/images/IMG_3354_ynkpia.jpg)
 
-**#02: Woman in colours**  
-_Location:_ Barras Art and Design  
+**#02: Woman in colours  
+**_Location:_ Barras Art and Design  
 _Picture taken:_ 20/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003374/images/IMG_2345_imzum4.jpg)
@@ -46,7 +46,7 @@ _Pictures taken:_ 22/10/2019
 
 **#07: The Big Yin** (Billy Connolly) (_by Rogue-Oner)_   
 _Location:_ Osborne St  
-**Picture taken:** 22/10/2019
+_Picture taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583004204/images/IMG_2350_tg0hop.jpg)
 
@@ -58,7 +58,7 @@ _Picture taken:_ 22/10/2019
 
 **#09: The Clutha Faces** _(by Rogue, EJEK and Art Pistol)  
 Location:_ Clutha Bar, Clyde St  
-Picture taken: 22/10/2019
+_Picture taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583006974/images/IMG_2351_ox9te7.jpg)
 
