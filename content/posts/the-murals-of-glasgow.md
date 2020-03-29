@@ -143,3 +143,4 @@ _Pictures taken:_ 22/10/2019
 * Girl, near Smiddy Bar, Purdon St
 * The Marionettes by Rogue-One, John Street
 * Sauchiehall Street Kittens by Rogue-One
+* Mikaku, Queen St
