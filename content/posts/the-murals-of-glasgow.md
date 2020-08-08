@@ -104,7 +104,7 @@ _Picture taken:_ 4/2/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583006638/images/IMG_0245_qysqas.jpg)
 
-\#17: **Wellpark Brewery wall murals** _(by Euan Gallacher)_  
+\#17: **Wellpark Brewery wall murals** _(by Euan Gallacher, painted by Smug)_  
 _Location:_ Wellpark Brewery, Duke St  
 _Pictures taken:_ 22/10/2019
 
