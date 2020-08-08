@@ -12,13 +12,13 @@ type = []
 +++
 There's couple of things that Glasgow is renowned for. Some of them are positive: it serves as the gateway to the Highlands, has a vibrant, thriving music scene and Glaswegians in general are very friendly people... oh, and apparently also is the [the birthplace of tikka masala](https://www.glasgowlive.co.uk/news/history/glasgow-invented-chicken-tikka-masala-12015915). On the other hand, it also has quite a reputation for being rough and dangerous, but from my own personal experience, that's almost completely rooted in the past, and today's Glasgow is definitely as safe as any other big city in Europe (perhaps except for few areas further from the centre). Actually, other big UK cities are now trying to learn from Glasgow about [how to tackle knife crime](https://www.thetimes.co.uk/article/what-can-london-learn-from-glasgows-approach-to-beating-knife-crime-9pp6w9q86).
 
-Oh, and then, there are the street **murals**. Colourful artistic paintings of various sizes can be found all around Glasgow, and there's even an [official mural trail](https://www.citycentremuraltrail.co.uk/murals/MuralMap) to help you discover them. There's just one small issue with the trail: there's many more murals than included in the trail. After randomly discovering couple of those in unexpected ideas, I came up with the idea to create my own "ultimate" Glasgow mural list, to be updated everytime I find a new one. :)
+Oh, and then, there are the street **murals**. Colourful artistic paintings of various sizes can be found all around Glasgow, and there's even an [official mural trail](https://www.citycentremuraltrail.co.uk/murals/MuralMap) to help you discover them. There's just one small issue with the trail: there's many more murals than included in the trail. After randomly discovering couple of those in unexpected areas, I came up with the idea to create my own "ultimate" Glasgow mural list, to be updated everytime I find a new one. :)
 
 _Note: The numbering of those is arbitrary, and doesn't at the moment constitute a good order of visiting the murals._
 
 ***
 
-**#01: The girls and the bubbles** _(by Rogue-One)  
+**#01: The girls and the bubbles** _(by Rogue-Oner)  
 Location:_ Renfrew Lane  
 _Picture taken:_ 27/2/2020
 
@@ -30,7 +30,7 @@ _Picture taken:_ 20/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003374/images/IMG_2345_imzum4.jpg)
 
-**#03 and #04: Mixed murals** (unknown author) **and Wee Pirates** (_by Rogue-One)_  
+**#03 and #04: Mixed murals** (unknown author) **and Wee Pirates** (_by Rogue-Oner)_  
 _Location:_ Ross St  
 _Picture taken:_ 20/10/2019
 
@@ -38,31 +38,31 @@ _Picture taken:_ 20/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003626/images/IMG_2347_kdaa5k.jpg)
 
-\#05 and #06: **Studies of women in black**  
+\#05 and #06: **Studies of women in black** _(by Klingatron)_  
 \**_Location:_ junction of Saltmarket and Bridgegate; Saint Andrew St  
 _Pictures taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003793/images/IMG_2348_hwvrzk.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003803/images/IMG_2349_odui9c.jpg)
 
-**#07: The Big Yin** (Billy Connolly) (_by Rogue-One)_  
+**#07: The Big Yin** (Billy Connolly) (_by Rogue-Oner)_  
 _Location:_ Osborne St  
 _Picture taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583004204/images/IMG_2350_tg0hop.jpg)
 
-**#08: Charles Rennie Mackintosh** (_by Rogue One)_  
+**#08: Charles Rennie Mackintosh** (_by Rogue Oner)_  
 _Location:_ near Clutha Bar, Clyde St  
 _Picture taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583004350/images/IMG_2352_g3emqi.jpg)
 
-**#09: The Clutha Faces** _(by Rogue One, EJEK and Art Pistol)  
+**#09: The Clutha Faces** _(by Rogue Oner, EJEK and Art Pistol)  
 Location:_ Clutha Bar, Clyde St  
 _Picture taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583006974/images/IMG_2351_ox9te7.jpg)
 
-**#10: Dr Connolly, I Presume?** _(by Rogue-One)_  
+**#10: Dr Connolly, I Presume?** _(by Rogue-Oner)_  
 _Location:_ Dixon St  
 _Picture taken:_ 22/10/2019
 
@@ -74,7 +74,7 @@ _Picture taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583004689/images/IMG_2354_c1ifsb.jpg)
 
-\#12: **The World’s Most Economical Taxi** _(by Rogue-One)  
+\#12: **The World’s Most Economical Taxi** _(by Rogue-Oner)  
 Location:_ Mitchell St  
 _Picture taken:_ 22/10/2019
 
@@ -104,7 +104,7 @@ _Picture taken:_ 4/2/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583006638/images/IMG_0245_qysqas.jpg)
 
-\#17: **Wellpark Brewery wall murals**  
+\#17: **Wellpark Brewery wall murals** _(by Euan Gallacher)_  
 _Location:_ Wellpark Brewery, Duke St  
 _Pictures taken:_ 22/10/2019
 
@@ -114,8 +114,9 @@ _Pictures taken:_ 22/10/2019
 
 **Listr of murals to visit or take pictures of** (in no particular order):
 
-* Frenchie and bubbles by Rogue-One, Renfrew Lane
-* Girl with butteflies by Rogue-One, Pacitti Gardens
+* Girl with mirror glasses at Clutha by Rogue-Oner,
+* Frenchie and bubbles by Rogue-Oner, Renfrew Lane
+* Girl with butteflies by Rogue-Oner, Pacitti Gardens
 * Are Ye Dancin by Conzo Throb, Ciarán Glöbel
 * Kids with stars, near DRAM in West End
 * As Good as Gold, on Buchanan Street, down the lane beside Princes Square.
@@ -124,8 +125,8 @@ _Pictures taken:_ 22/10/2019
 * Today We’re In Love Aren't We? by Cobolt Collective, Brown Street
 * Wind Power by Rogue-Oner and Art Pistol, Mitchell Street
 * The Lost Giant by Stormie Mills, Sauchiehall Lane
-* Charing Cross Birds by Rogue-One
-* A View of the Clyde by Rogue-One
+* Charing Cross Birds by Rogue-Oner
+* A View of the Clyde by Rogue-Oner
 * Big Birds by Rogue-Oner and Art Pistol, corner of Howard Street and Dunlop Street
 * Big Yin by Rachel Maclean, Gallowgate
 * Argyle Street Cafe
@@ -134,13 +135,13 @@ _Pictures taken:_ 22/10/2019
 * Fellow Glasgow Citizens
 * Squirrelling Around, by Smug and Spore
 * Charing Croc
-* Puppets by Rogue One, Cowcaddens
-* The Musician by Rogue-One, Sauchiehall Lane
+* Puppets by Rogue-Oner, Cowcaddens
+* The Musician by Rogue-Oner, Sauchiehall Lane
 * SWG3
 * Space Man by Recoat and Ali Wylie, Trongate
 * Badminton by Guido van Helten, Wilson Street
 * Four Seasons
 * Girl, near Smiddy Bar, Purdon St
-* The Marionettes by Rogue-One, John Street
-* Sauchiehall Street Kittens by Rogue-One
+* The Marionettes by Rogue-Oner, John Street
+* Sauchiehall Street Kittens by Rogue-Oner
 * Mikaku, Queen St
