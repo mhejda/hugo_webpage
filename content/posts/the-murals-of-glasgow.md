@@ -18,7 +18,13 @@ _Note: The numbering of those is arbitrary, and doesn't at the moment constitute
 
 ***
 
-**#16: The girls and the bubbles** _(by Rogue-Oner)  
+\#17: **Tropical Birds** (by Art Pistol & Rogue Oner)  
+Location: Howard & Dunlop Streets  
+Picture taken: 14/8/2020
+
+![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1597442892/images/2020-08-14__8140125_qewgtm.jpg)
+
+\#16: **The girls and the bubbles**  _(by Rogue-Oner)  
 Location:_ Renfrew Lane  
 _Picture taken:_ 27/2/2020
 
@@ -30,7 +36,7 @@ _Picture taken:_ 20/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003374/images/IMG_2345_imzum4.jpg)
 
-**#13 and #14: Mixed murals** (unknown author) **and Wee Pirates** (_by Rogue-Oner)_  
+**#13 and #14: Mixed murals** BAaD Street Art Festival (unknown author) **and Wee Pirates** (_by Rogue-Oner)_  
 _Location:_ Ross St  
 _Picture taken:_ 20/10/2019
 
@@ -62,7 +68,7 @@ Update from 14/8/2020: The Clutha Faces have been repainted!
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1597441991/images/2020-08-14__8140123_qfhlue.jpg)
 
-![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1597442035/images/2020-08-14__8140121_kc6f9v.jpg)
+![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1597442216/images/2020-08-14__8140119_ww0tdh.jpg)
 
 \#07: **Dr Connolly, I Presume?** _(by Rogue-Oner)_  
 _Location:_ Dixon St  
@@ -112,23 +118,27 @@ _Pictures taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005382/images/IMG_2364_ha1zhi.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005403/images/IMG_2365_qsznyp.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005431/images/IMG_2366_rsfgy3.jpg)
 
+Murals that were removed
+
+* Glasgow’s Tiger, Clyde Walkway just below the Broomielaw
+* A View of the Clyde by Art Pistol
+* Five Faces (beneath train bridge on Broomielaw)
+
 ***
 
-**Listr of murals to visit or take pictures of** (in no particular order):
+**List of murals to visit or take pictures of** (in no particular order):
 
-* Girl with mirror glasses at Clutha by Rogue-Oner,
+* Cat hunting birds by Art Pistol, Corner Howard & Dunlop Streets, Glasgow
 * Frenchie and bubbles by Rogue-Oner, Renfrew Lane
 * Girl with butteflies by Rogue-Oner, Pacitti Gardens
 * Are Ye Dancin by Conzo Throb, Ciarán Glöbel
 * Kids with stars, near DRAM in West End
 * As Good as Gold, on Buchanan Street, down the lane beside Princes Square.
 * Five Faces by Smug, on Broomielaw beneath railbridge
-* Glasgow’s Tiger, Clyde Walkway just below the Broomielaw.
 * Today We’re In Love Aren't We? by Cobolt Collective, Brown Street
 * Wind Power by Rogue-Oner and Art Pistol, Mitchell Street
 * The Lost Giant by Stormie Mills, Sauchiehall Lane
 * Charing Cross Birds by Rogue-Oner
-* A View of the Clyde by Rogue-Oner
 * Big Birds by Rogue-Oner and Art Pistol, corner of Howard Street and Dunlop Street
 * Big Yin by Rachel Maclean, Gallowgate
 * Argyle Street Cafe
@@ -147,3 +157,12 @@ _Pictures taken:_ 22/10/2019
 * The Marionettes by Rogue-Oner, John Street
 * Sauchiehall Street Kittens by Rogue-Oner
 * Mikaku, Queen St
+* Maryhill Panther, Maryhill Road, Glasgow
+* Giant Panda, Gordon Lane
+* Cowlair Incline, Endrick Street, Glasgow
+* Gorbals Vampire by Art Pistol
+* Johnnie Walker by Art Pistol, Corunna Street
+* Freddo by Art Pistol With Conzo Throb & Ciaran Globel, Springfield Court 
+* Tartan Paint / Innis & Gunn by Art Pistol With Conzo Throb & Ciaran Globel, Cresswell Lane, Glasgow
+* Nolly Brigg by Art Pistol With James Frew, Firhill Road, Glasgow
+* Frog by Art Pistol With Ejek / 2019 / Bilsland Drive, Glasgow
