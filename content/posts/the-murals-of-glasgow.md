@@ -18,19 +18,19 @@ _Note: The numbering of those is arbitrary, and doesn't at the moment constitute
 
 ***
 
-**#01: The girls and the bubbles** _(by Rogue-Oner)  
+**#16: The girls and the bubbles** _(by Rogue-Oner)  
 Location:_ Renfrew Lane  
 _Picture taken:_ 27/2/2020
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003079/images/IMG_3354_ynkpia.jpg)
 
-\*_#02: Woman in colours  
-\*Location:_ Barras Art and Design  
+_#15: Woman in colours  
+Location:_ Barras Art and Design  
 _Picture taken:_ 20/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003374/images/IMG_2345_imzum4.jpg)
 
-**#03 and #04: Mixed murals** (unknown author) **and Wee Pirates** (_by Rogue-Oner)_  
+**#13 and #14: Mixed murals** (unknown author) **and Wee Pirates** (_by Rogue-Oner)_  
 _Location:_ Ross St  
 _Picture taken:_ 20/10/2019
 
@@ -38,43 +38,45 @@ _Picture taken:_ 20/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003626/images/IMG_2347_kdaa5k.jpg)
 
-\#05 and #06: **Studies of women in black** _(by Klingatron)_  
+\#11 and #12: **Studies of women in black** _(by Klingatron)_  
 \**_Location:_ junction of Saltmarket and Bridgegate; Saint Andrew St  
 _Pictures taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003793/images/IMG_2348_hwvrzk.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003803/images/IMG_2349_odui9c.jpg)
 
-**#07: The Big Yin** (Billy Connolly) (_by Rogue-Oner)_  
+\#10: **The Big Yin** (Billy Connolly) (_by Rogue-Oner)_  
 _Location:_ Osborne St  
 _Picture taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583004204/images/IMG_2350_tg0hop.jpg)
 
-**#08: Charles Rennie Mackintosh** (_by Rogue Oner)_  
+\#08: **The Clutha Faces** _(by Rogue Oner, EJEK and Art Pistol) and_ #09: **Charles Rennie Mackintosh** (_by Rogue Oner)_  
 _Location:_ near Clutha Bar, Clyde St  
 _Picture taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583004350/images/IMG_2352_g3emqi.jpg)
 
-**#09: The Clutha Faces** _(by Rogue Oner, EJEK and Art Pistol)  
-Location:_ Clutha Bar, Clyde St  
-_Picture taken:_ 22/10/2019
-
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583006974/images/IMG_2351_ox9te7.jpg)
 
-**#10: Dr Connolly, I Presume?** _(by Rogue-Oner)_  
+Update from 14/8/2020: The Clutha Faces have been repainted!
+
+![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1597441991/images/2020-08-14__8140123_qfhlue.jpg)
+
+![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1597442035/images/2020-08-14__8140121_kc6f9v.jpg)
+
+\#07: **Dr Connolly, I Presume?** _(by Rogue-Oner)_  
 _Location:_ Dixon St  
 _Picture taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583004632/images/IMG_2353_ur14z1.jpg)
 
-\#11: **Honey, I Think I Shrunk the Kids** _(by Smug)  
+\#06: **Honey, I Think I Shrunk the Kids** _(by Smug)  
 Location:_ Mitchell St  
 _Picture taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583004689/images/IMG_2354_c1ifsb.jpg)
 
-\#12: **The World’s Most Economical Taxi** _(by Rogue-Oner)  
+\#05: **The World’s Most Economical Taxi** _(by Rogue-Oner)  
 Location:_ Mitchell St  
 _Picture taken:_ 22/10/2019
 
@@ -86,25 +88,25 @@ _Picture taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005164/images/IMG_2356_joqlnm.jpg)
 
-\#14: **University of Strathclyde murals**  
+\#04: **University of Strathclyde murals**  
 _Location:_ George Street, University of Strathclyde campus  
 _Picture taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005265/images/IMG_2360_lmumhe.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005284/images/IMG_2362_w2pwfs.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005301/images/IMG_2363_mav0j9.jpg)
 
-\#15: **Teneu and Kentigern** _(by Smug)_  
+\#03: **Teneu and Kentigern** _(by Smug)_  
 _Location:_ George Street, University of Strathclyde campus  
 _Picture taken:_ 26/8/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583006451/images/IMG_1667_x81zo9.jpg)
 
-\#16: **Untitled (Saint Mungo)** (_by Smug)_  
+\#02: **Untitled (Saint Mungo)** (_by Smug)_  
 _Location:_ High Street (view from Rottenrow East bus stop)  
 _Picture taken:_ 4/2/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583006638/images/IMG_0245_qysqas.jpg)
 
-\#17: **Wellpark Brewery wall murals** _(by Euan Gallacher, painted by Smug)_  
+\#01: **Wellpark Brewery wall murals** _(by Euan Gallacher, painted by Smug)_  
 _Location:_ Wellpark Brewery, Duke St  
 _Pictures taken:_ 22/10/2019
 
