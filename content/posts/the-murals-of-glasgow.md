@@ -36,8 +36,8 @@ _Picture taken:_ 20/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003374/images/IMG_2345_imzum4.jpg)
 
-**#13 and #14: Mixed murals** BAaD Street Art Festival (unknown author) **and Wee Pirates** (_by Rogue-Oner)_  
-_Location:_ Ross St  
+**#13 and #14: Mixed murals (BAaD Street Art Festival 2017)** (_by multiple artists, including Art Pistol, Rogue-Oner, Conzo Throb and Ciarán Glöbel)  
+Location:_ Ross St and The Barras  
 _Picture taken:_ 20/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003482/images/IMG_2346_oirjme.jpg)
@@ -131,7 +131,7 @@ Murals that were removed
 * Cat hunting birds by Art Pistol, Corner Howard & Dunlop Streets, Glasgow
 * Frenchie and bubbles by Rogue-Oner, Renfrew Lane
 * Girl with butteflies by Rogue-Oner, Pacitti Gardens
-* Are Ye Dancin by Conzo Throb, Ciarán Glöbel
+* Are Ye Dancin by Art Pistol with Conzo Throb, Ciarán Glöbel, Sloans Lane, Glasgow
 * Kids with stars, near DRAM in West End
 * As Good as Gold, on Buchanan Street, down the lane beside Princes Square.
 * Five Faces by Smug, on Broomielaw beneath railbridge
@@ -166,3 +166,5 @@ Murals that were removed
 * Tartan Paint / Innis & Gunn by Art Pistol With Conzo Throb & Ciaran Globel, Cresswell Lane, Glasgow
 * Nolly Brigg by Art Pistol With James Frew, Firhill Road, Glasgow
 * Frog by Art Pistol With Ejek / 2019 / Bilsland Drive, Glasgow
+* The Gardener Glasgow by Art Pistol With Rogue One, Ashton Lane, Glasgow
+* Fish Market by Art Pistol
