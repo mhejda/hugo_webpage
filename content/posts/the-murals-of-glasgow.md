@@ -30,7 +30,7 @@ _Picture taken:_ 14/8/2020
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1597442892/images/2020-08-14__8140125_qewgtm.jpg)
 
-\#18: **Four Seasons _(_**_by Smug)_  
+\#18: **Four Seasons / Fellow Glasgow Residents _(_**_by Smug)_  
 _Location:_ Ingram Street  
 _Picture taken:_ 2/3/2020
 
