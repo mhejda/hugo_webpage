@@ -18,13 +18,13 @@ _Note: The numbering of those is arbitrary, and doesn't at the moment constitute
 
 ***
 
-\#18: **Visit Dennistoun** _(unknown artist)_  
+\#20: **Visit Dennistoun** _(unknown artist)_  
 Location: Annbank Street  
 Picture taken: 14/8/2020
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1597443961/images/2020-08-14__8140111_ecpggt.jpg)
 
-\#18: **Tropical Birds** _(by Art Pistol & Rogue Oner)_  
+\#19: **Tropical Birds** _(by Art Pistol & Rogue Oner)_  
 _Location:_ Howard & Dunlop Streets  
 _Picture taken:_ 14/8/2020
 
