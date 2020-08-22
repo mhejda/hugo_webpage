@@ -24,25 +24,41 @@ Picture taken: 14/8/2020
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1597443961/images/2020-08-14__8140111_ecpggt.jpg)
 
-\#17: **Tropical Birds** (by Art Pistol & Rogue Oner)  
-Location: Howard & Dunlop Streets  
-Picture taken: 14/8/2020
+\#18: **Tropical Birds** _(by Art Pistol & Rogue Oner)_  
+_Location:_ Howard & Dunlop Streets  
+_Picture taken:_ 14/8/2020
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1597442892/images/2020-08-14__8140125_qewgtm.jpg)
 
-\#16: **The girls and the bubbles**  _(by Rogue-Oner)  
+\#18: **Four Seasons _(_**_by Smug)_  
+_Location:_ Ingram Street  
+_Picture taken:_ 2/3/2020
+
+![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1598093722/images/IMG_3392_c839bd.jpg)  
+![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1598093826/images/IMG_3393_ohbmcc.jpg)  
+![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1598093859/images/IMG_3394_inj0r3.jpg)  
+![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1598093918/images/IMG_3395_gj6kfx.jpg)  
+![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1598093942/images/IMG_3396_tto4bm.jpg)
+
+\#17: **The girls and the bubbles** _(by Rogue-Oner)  
 Location:_ Renfrew Lane  
 _Picture taken:_ 27/2/2020
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003079/images/IMG_3354_ynkpia.jpg)
 
-_#15: Woman in colours  
+\#16: **Space Man (**by Recoat and Ali Wylie)  
+_Location:_ Trongate  
+_Picture taken:_ 1/3/2020  
+  
+![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1598093295/images/IMG_3386_hel0ng.jpg)
+
+\#15: **Woman in colours**_  
 Location:_ Barras Art and Design  
 _Picture taken:_ 20/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003374/images/IMG_2345_imzum4.jpg)
 
-**#13 and #14: Mixed murals (BAaD Street Art Festival 2017)** (_by multiple artists, including Art Pistol, Rogue-Oner, Conzo Throb and Ciarán Glöbel)  
+\#13 and #14: **Mixed murals (BAaD Street Art Festival 2017)** (_by multiple artists, including Art Pistol, Rogue-Oner, Conzo Throb and Ciarán Glöbel)  
 Location:_ Ross St and The Barras  
 _Picture taken:_ 20/10/2019
 
@@ -51,7 +67,7 @@ _Picture taken:_ 20/10/2019
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003626/images/IMG_2347_kdaa5k.jpg)
 
 \#11 and #12: **Studies of women in black** _(by Klingatron)_  
-\**_Location:_ junction of Saltmarket and Bridgegate; Saint Andrew St  
+_Location:_ junction of Saltmarket and Bridgegate; Saint Andrew St  
 _Pictures taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003793/images/IMG_2348_hwvrzk.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003803/images/IMG_2349_odui9c.jpg)
@@ -124,11 +140,13 @@ _Pictures taken:_ 22/10/2019
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005382/images/IMG_2364_ha1zhi.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005403/images/IMG_2365_qsznyp.jpg)![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005431/images/IMG_2366_rsfgy3.jpg)
 
-Murals that were removed
+***
 
-* Glasgow’s Tiger, Clyde Walkway just below the Broomielaw
-* A View of the Clyde by Art Pistol
-* Five Faces (beneath train bridge on Broomielaw)
+**Murals that were unfortunately removed** 😔**:**
+
+* Glasgow’s Tiger, Clyde Walkway just below the Broomielaw _\[checked 14/8/2020\]_
+* A View of the Clyde by Art Pistol _\[checked 14/8/2020\]_
+* Five Faces (beneath train bridge on Broomielaw) _\[checked 14/8/2020\]_
 
 ***
 
@@ -151,12 +169,10 @@ Murals that were removed
 * The Swimmer by Smug, Kingston Bridge
 * Skeletal Street by Smug, Eastvale Street
 * Fellow Glasgow Citizens
-* Squirrelling Around, by Smug and Spore
 * Charing Croc
 * Puppets by Rogue-Oner, Cowcaddens
 * The Musician by Rogue-Oner, Sauchiehall Lane
 * SWG3
-* Space Man by Recoat and Ali Wylie, Trongate
 * Badminton by Guido van Helten, Wilson Street
 * Four Seasons
 * Girl, near Smiddy Bar, Purdon St
@@ -168,9 +184,10 @@ Murals that were removed
 * Cowlair Incline, Endrick Street, Glasgow
 * Gorbals Vampire by Art Pistol
 * Johnnie Walker by Art Pistol, Corunna Street
-* Freddo by Art Pistol With Conzo Throb & Ciaran Globel, Springfield Court 
+* Freddo by Art Pistol With Conzo Throb & Ciaran Globel, Springfield Court
 * Tartan Paint / Innis & Gunn by Art Pistol With Conzo Throb & Ciaran Globel, Cresswell Lane, Glasgow
 * Nolly Brigg by Art Pistol With James Frew, Firhill Road, Glasgow
 * Frog by Art Pistol With Ejek / 2019 / Bilsland Drive, Glasgow
 * The Gardener Glasgow by Art Pistol With Rogue One, Ashton Lane, Glasgow
 * Fish Market by Art Pistol
+* Squirrelling Around, (by Smug and Spore)
