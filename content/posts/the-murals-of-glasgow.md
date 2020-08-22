@@ -168,13 +168,11 @@ _Pictures taken:_ 22/10/2019
 * Argyle Street Cafe
 * The Swimmer by Smug, Kingston Bridge
 * Skeletal Street by Smug, Eastvale Street
-* Fellow Glasgow Citizens
 * Charing Croc
 * Puppets by Rogue-Oner, Cowcaddens
 * The Musician by Rogue-Oner, Sauchiehall Lane
 * SWG3
 * Badminton by Guido van Helten, Wilson Street
-* Four Seasons
 * Girl, near Smiddy Bar, Purdon St
 * The Marionettes by Rogue-Oner, John Street
 * Sauchiehall Street Kittens by Rogue-Oner
