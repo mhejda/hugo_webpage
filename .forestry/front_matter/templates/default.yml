@@ -39,5 +39,6 @@ fields:
     required: false
   label: Author
 pages:
+- content/posts/august-munro-recap.md
 - content/posts/munro-4-beinn-chabhair.md
 - content/posts/the-murals-of-glasgow.md
