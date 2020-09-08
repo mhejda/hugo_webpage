@@ -2,13 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Matěj Hejda</title>
-    <link>https://test.com/categories/</link>
+    <link>https://stoic-jackson-19e952.netlify.com/categories/</link>
     <description>Recent content in Categories on Matěj Hejda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://test.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stoic-jackson-19e952.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Scotland</title>
+      <link>https://stoic-jackson-19e952.netlify.com/categories/scotland/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stoic-jackson-19e952.netlify.com/categories/scotland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traveling</title>
+      <link>https://stoic-jackson-19e952.netlify.com/categories/traveling/</link>
+      <pubDate>Sun, 02 Feb 2020 21:00:00 +0000</pubDate>
+      
+      <guid>https://stoic-jackson-19e952.netlify.com/categories/traveling/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

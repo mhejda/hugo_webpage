@@ -2,7 +2,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://test.com/2020/markdown_test/</loc>
+      <loc>https://stoic-jackson-19e952.netlify.com/notes/</loc>
       
       <lastmod>2020-01-11T00:00:00+00:00</lastmod>
       
@@ -16,23 +16,9 @@
     </url>
   
     <url>
-      <loc>https://test.com/2014/hello-hugo/</loc>
+      <loc>https://stoic-jackson-19e952.netlify.com/categories/</loc>
       
-      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://test.com/</loc>
-      
-      <lastmod>2020-01-11T00:00:00+00:00</lastmod>
+      <lastmod>2020-02-29T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -44,23 +30,9 @@
     </url>
   
     <url>
-      <loc>https://test.com/posts/</loc>
+      <loc>https://stoic-jackson-19e952.netlify.com/</loc>
       
-      <lastmod>2020-01-11T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://test.com/about/</loc>
-      
-      <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+      <lastmod>2020-02-29T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -72,7 +44,9 @@
     </url>
   
     <url>
-      <loc>https://test.com/categories/</loc>
+      <loc>https://stoic-jackson-19e952.netlify.com/posts/</loc>
+      
+      <lastmod>2020-02-29T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -84,7 +58,93 @@
     </url>
   
     <url>
-      <loc>https://test.com/tags/</loc>
+      <loc>https://stoic-jackson-19e952.netlify.com/categories/scotland/</loc>
+      
+      <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://stoic-jackson-19e952.netlify.com/2020/the-murals-of-glasgow/</loc>
+      
+      <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://stoic-jackson-19e952.netlify.com/about/</loc>
+      
+      <lastmod>2020-02-09T13:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://stoic-jackson-19e952.netlify.com/2020/munro-4-beinn-chabhair/</loc>
+      
+      <lastmod>2020-02-02T21:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://stoic-jackson-19e952.netlify.com/tags/munros/</loc>
+      
+      <lastmod>2020-02-02T21:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://stoic-jackson-19e952.netlify.com/tags/</loc>
+      
+      <lastmod>2020-02-02T21:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://stoic-jackson-19e952.netlify.com/categories/traveling/</loc>
+      
+      <lastmod>2020-02-02T21:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>

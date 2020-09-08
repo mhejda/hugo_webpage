@@ -58,6 +58,11 @@ disqusShortname = "yourdiscussshortname"
     weight = 3
 
   [[menu.main]]
+    name = "publications"
+    url = "/publications/"
+    weight = 3
+
+  [[menu.main]]
     name = "about"
     url = "/about"
     weight = 4

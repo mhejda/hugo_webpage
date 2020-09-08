@@ -2,13 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Matěj Hejda</title>
-    <link>https://test.com/tags/</link>
+    <link>https://stoic-jackson-19e952.netlify.com/tags/</link>
     <description>Recent content in Tags on Matěj Hejda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 02 Feb 2020 21:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://test.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stoic-jackson-19e952.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>munros</title>
+      <link>https://stoic-jackson-19e952.netlify.com/tags/munros/</link>
+      <pubDate>Sun, 02 Feb 2020 21:00:00 +0000</pubDate>
+      
+      <guid>https://stoic-jackson-19e952.netlify.com/tags/munros/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
