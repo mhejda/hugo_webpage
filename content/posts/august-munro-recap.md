@@ -29,7 +29,8 @@ I moved back to Scotland in the middle of August, and the goal was clear: seize 
 
 ## Munros #5 & #6: Ben More and Stob Binnein
 
-#### Starting point: Crianlarich Station  
+#### 15/8/2020  
+Starting point: Crianlarich Station  
 Time: approx. 8h20m  
 Total ascent: 1469 m
 
@@ -40,3 +41,5 @@ I arrived to Glasgow on Thursday, and we immediately decided that Saturdays good
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1599599371/images/2020-08-15__8150135_ujg1gm.jpg)Like if the clouds served as a "thresholding filter", only the highest peaks (other Munros?) could be seen around, pointing out through the thick cloud blanket. After a while of further uphill walking in glorious, warm sunny morning, we reached the peak of Ben More, with absolutely magnificient views in all directions.
 
 ![](https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1599599595/images/2020-08-15__8150145_rbwj0p.jpg)That hill right behind us (on the left) is Stob Binnein, our second Munro for the day. A fairly straightforward walk - we just needed to descend down to the Bealach Eadar da-Bheinn, lose over 300m of precious altitude and then reascend the second peak to basically the same altitude as the first one. On our descend, we again passed through the cloud layer and back on the second ascend to the peak of Stob Binnein. Both of the mountains have very similar "cone-like" character, and the ascend is straightforward, although again quite steep. After a brief break on the second peak, we retraced our steps down to the bealach, and began the descend to the west by the steep grassy hill along the stream, as recommended on the WalkingHighlangs route page. Later on, we bumped into a couple that told us that the path which is NOT recommended on WH is actually not boggy, and hence sounded like a much better choice than ours. After a while, the faint descend boggy path reached the glen, through which we returned back to the starting point. As a last thing, we had to retrace our steps back to Crianlarich, which proved to be quite tiring with over 1300m of elevation in our feet. Luckily, we managed to return with some extra time before the train departure, and managed to squeeze in a cold, socially distanced pint at Rod & Reel pub. Overall, a really rewarding day in the hills!
+
+***
